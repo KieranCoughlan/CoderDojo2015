@@ -1,0 +1,1492 @@
+data/Assets/Editor/ImageEffects/TonemappingEditor.cs.i
+data/Library/ShaderCache/f/f9f180fd202679592d668c805aecdc17.bin.i
+data/Assets/Materials/White.mat.meta.i
+data/Library/ShaderCache/e/ed469de3185ce644c38cf61d49359d63.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader.meta.i
+data/Library/ShaderCache/5/5b290f3918282787c109beac44711f14.bin.i
+data/Library/metadata/d4/d440902fad11e807d00044888d76c639.i
+data/Library/metadata/af/afd58f28713632e419efd8f302698ceb.i
+data/Assembly-CSharp-firstpass.csproj.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs.meta.i
+data/Assets/Materials/OilDrums.mat.meta.i
+data/Assets/Editor/ImageEffects/EdgeDetectionEditor.cs.i
+data/Library/metadata/a8/a88a26a276b4e47619ce2c5adad33fab.info.i
+data/Library/metadata/e9/e9a9781cad112c75d0008dfa8d76c639.i
+data/Assets/Prefabs/ShellExplosion.prefab.meta.i
+data/Library/metadata/47/478a2083ad114a07d000fbfb8d76c639.info.i
+data/Library/metadata/22/22c7d7ea0e44ffc46936169d62a32f92.info.i
+data/Library/ShaderCache/e/e0d089518e869b56abae903dc856b305.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png.meta.i
+data/Assets/Scripts/UI/UIDirectionControl.cs.meta.i
+data/Assets/Scripts.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.i
+data/Library/metadata/a1/a1194fc0a76098e499948ecf77b6acdf.i
+data/Library/ShaderCache/6/61ead578244fc0a1f7b0d57f6bb8a827.bin.i
+data/Library/metadata/e5/e515e0f94cefc4c0db54b45cba621544.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc.meta.i
+data/Library/metadata/9e/9ed1e8a25f964bd4298944675e425a0d.info.i
+data/Library/metadata/a6/a678ab9f67b4ce84093be35214bdb92d.i
+data/Library/ShaderCache/6/663b55f78108ca6ee579b6c446c3b735.bin.i
+data/Library/metadata/5d/5d7f4c401ae8946bcb0d6ff68a9e7466.i
+data/Library/ShaderCache/6/63fa9b7493544fab82a0e665fe1458a7.bin.i
+data/Library/metadata/ab/abd63abcc46fbcb4588164b671b52d3b.info.i
+data/Library/ShaderCache/e/e7e1650f2ddbaf1c3dc8e61061d2cbe4.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs.meta.i
+data/Library/ShaderCache/f/f7415c4d5f070578beafe991dc8f5aa6.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.meta.i
+data/Library/ShaderCache/5/5755af5480cbe86f09484159fb813320.bin.i
+data/Library/ShaderCache/8/81bd8342e3a7904870891a9b13642c6e.bin.i
+data/Library/ShaderCache/1/1b3a460c02697ca995ded8186765d494.bin.i
+data/Assets/Models/Dunes01.fbx.meta.i
+data/Library/ShaderCache/a/a0f240580036b8536db4a91f0a943e22.bin.i
+data/Library/metadata/67/672a9941361ad494a99fba36759eca80.resource.i
+data/Library/metadata/00/00000000000000004000000000000000.info.i
+data/Library/ShaderCache/6/6e42320e2173f57910aaa5dd1ed3340e.bin.i
+data/Library/metadata/bd/bd70d448b18cfbc46af26466f752332c.info.i
+data/Library/metadata/da/da310021e2a4142429d95c537846dc38.i
+data/Library/ShaderCache/5/5f11f2968a64ff0656730de330636f1b.bin.i
+data/Library/ShaderCache/e/eb8eeabb50ac875887a312f3ab60f2a7.bin.i
+data/Library/metadata/be/befbb4b9c320b4b18a08ef7afb93b6c9.info.i
+data/Library/ShaderCache/b/bff5ef316d346c4e58ddfd17eb92b738.bin.i
+data/Library/metadata/3d/3d7fe0a26ba72d949874021dc3d6995e.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs.meta.i
+data/Library/metadata/b1/b14ff24d0c1ad87409c85023c1d71c37.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader.i
+data/Library/ShaderCache/e/e16260c1f6cee1fdfb59108347f823d8.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/grayscale ramp.png.i
+data/Library/ShaderCache/1/13d7e4a6a9fdac76ec65c1ea41c20970.bin.i
+data/Library/metadata/5d/5d7f4c401ae8946bcb0d6ff68a9e7466.info.i
+data/Library/metadata/a9/a94b781cad112c75d0008dfa8d76c639.i
+data/Library/metadata/25/257bc83cbeb544540bd0e558aa9b1383.info.i
+data/Library/metadata/ff/ff21ff0ea9b18924bb1fdfbb0e58f5cb.i
+data/Library/ShaderCache/3/332d04ab420f71641b46afeac357b5e0.bin.i
+data/Library/metadata/91/9191284b058eef549b7108b5f04e1117.info.i
+data/Library/ShaderCache/9/997bfe0d734fe522b96535a3e316b631.bin.i
+data/Library/metadata/08/08126bf2baa528c4cb9c60340a24e5d6.i
+data/Library/metadata/e7/e7df269b1d6121e4787b2f27aab18dbe.info.i
+data/Library/ShaderCache/2/2f0af12684c258f5762840db2e26b994.bin.i
+data/Library/ShaderCache/3/3e36d7b4d3fefc7c7815cc66d67845d4.bin.i
+data/Library/ShaderCache/b/b3f66ebbb3d6de799fead2b7ff103d9e.bin.i
+data/Library/ShaderCache/3/3df7ee756aba76c1c38b94d769dd6622.bin.i
+data/Library/ShaderCache/b/b3378a136c203d79b57f721616b72c8f.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares.meta.i
+data/Library/ShaderCache/b/b59a42999868fe0a15c2523a26289e25.bin.i
+data/Library/metadata/bd/bdda781cad112c75d0008dfa8d76c639.i
+data/Library/metadata/dd/dd6d4281e5d7cd44d8c6e38bc2c1b8d8.info.i
+data/Assets/Scripts/UI.meta.i
+data/Library/ShaderCache/8/89413256c7c8d9b03e5c214492c2d3d3.bin.i
+data/Library/metadata/57/57cdacf9b217546aaa18edf39a6151c0.info.i
+data/Library/metadata/f4/f4901f25d4e1542589348bbb89563d8e.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.meta.i
+data/Assets/Materials/Red.mat.meta.i
+data/Library/metadata/45/459fe69d2f6d74ddb92f04dbf45a866b.i
+data/Library/metadata/ba/ba15fa37442517749a3c4640a4ad4054.info.i
+data/Library/metadata/f6/f688f89ed5eb847c5b19c934a0f1e772.info.i
+data/Library/ShaderCache/e/e9513257a913a5f06a6428495c4ea6ec.bin.i
+data/ProjectSettings/EditorBuildSettings.asset.i
+data/Library/ShaderCache/2/25df3a4a11753421ba2ba50298f0e2ba.bin.i
+data/Library/metadata/83/83d8db0ec466c14429f58c68c16398a1.info.i
+data/Library/ShaderCache/4/4e3a74f667e7d50583ed36dae90847f1.bin.i
+data/Assets/Editor/ImageEffects/AntialiasingEditor.cs.meta.i
+data/Library/ShaderCache/7/740eef978e04f9b442e6c1e2ac656bef.bin.i
+data/Assets/AudioClips/ShellExplosion.wav.i
+data/Library/metadata/7f/7fc6bde01469c7b4badee5362f191d96.info.i
+data/Assets/Editor/ImageEffects/BloomEditor.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs.i
+data/Library/metadata/7d/7d0265bd0a85e4ff08599e10b288065d.i
+data/Library/metadata/e8/e80c3c84ea861404d8a427db8b7abf04.info.i
+data/Library/metadata/b6/b6aa781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.i
+data/Library/metadata/57/574c4e070e5dd0a40a02b979f582a836.info.i
+data/Library/metadata/6e/6e4d8dfe03882c54380948659f725233.i
+data/Library/metadata/8c/8cde8c0fd649d9b46bb403ba5e157391.info.i
+data/Library/ShaderCache/e/e4beafbee2619eed92d2cdf9a33bdb2c.bin.i
+data/Assets/Materials/BuildingMetal.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader.i
+data/Library/metadata/85/852e56802eb941638acbb491814497b0.i
+data/Library/ShaderCache/e/e02f1d549e0ab230cf4c04b7a2feb350.bin.i
+data/Library/metadata/49/4932ab25b84dd7649b80af68a9660ddc.i
+data/Library/metadata/12/126dbcddb53386c4f969fdf0c555e822.info.i
+data/Assets/Models/PalmTree.fbx.meta.i
+data/Library/ShaderCache/1/1d501b1469e94cc9e5e032cfa35ac30d.bin.i
+data/Library/ShaderCache/0/09d149821eb58f7422c1d568c10364ef.bin.i
+data/Assets/Models/Ruins01.fbx.meta.i
+data/Library/ShaderCache/e/eb093efd28adde97672db21a8143e856.bin.i
+data/Library/metadata/ef/ef94ef5de0736094c917c0e0217691b6.i
+data/Library/ShaderCache/5/57571b0bfd551b5c112b549d90fec56c.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.meta.i
+data/Assets/Materials/BuildingMetal.mat.meta.i
+data/Library/metadata/00/00000000000000007000000000000000.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs.i
+data/Library/metadata/00/00000000000000009000000000000000.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.i
+data/Library/metadata/6f/6f1418cffd12146f2a83be795f6fa5a7.info.i
+data/Library/metadata/d8/d8e82664aa8686642a424c88ab10164a.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.meta.i
+data/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.i
+data/Assets/Scripts/Tank/TankHealth.cs.i
+data/Assets/Models/Ruins01.fbx.i
+data/Library/ShaderCache/b/ba70cb8d1c1228aadcca1d34425305ea.bin.i
+data/Library/ShaderCache/9/9e6210eed216393f10e505eea4b8b128.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader.i
+data/Library/ShaderCache/e/e317d9787336494c0b2b7c5177c1f2df.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs.i
+data/Library/ShaderCache/e/e03259d67a2b062957ec2ae16359fc95.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.i
+data/Library/metadata/78/78415c8d6452baf4db826588249b5ff4.i
+data/Assets/Sprites/Aim Arrow.png.i
+data/Library/ShaderCache/7/7d4bfc4852aa83a4fb3d0748bec7080d.bin.i
+data/Assets/_Scenes/Main2.unity.i
+data/Library/ShaderCache/1/15bdb74f3ccd1c69a7a28963ba95f2a7.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png.i
+data/Library/metadata/00/00000000000000002000000000000000.info.i
+data/Library/ShaderCache/1/1a3fc023fdf378bb2c851bd9554d4366.bin.i
+data/Library/metadata/b0/b0249d8c935344451aa4de6db76f0688.info.i
+data/Library/ShaderCache/9/9c2033c9aea463687dfea65535a117f0.bin.i
+data/Library/metadata/ab/abd63abcc46fbcb4588164b671b52d3b.i
+data/Library/ShaderCache/7/78c189d846a033d5acea350f2ffbb86b.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader.meta.i
+data/Library/metadata/94/943c59645eb905144a0990b57e13a6f9.info.i
+data/Library/ShaderCache/0/07308fbfd68dad2e964f2a1276ee5f2a.bin.i
+data/Library/metadata/c5/c54e3c1f18f8cbb49b10f5e2dc8a1865.i
+data/Assets/Models/Column02.FBX.i
+data/Library/ShaderCache/5/53b04326af692f9bedfe75463d59314b.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader.meta.i
+data/Library/metadata/42/427fdf36119bab44a9131abd19b90f57.i
+data/Assets/Scripts/Tank/TankShooting.cs.i
+data/Library/ShaderCache/6/63312772834823e47220fe3dc72b22bc.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs.i
+data/Library/metadata/85/85a88efa8c871af4a9d17c64791b6f4f.info.i
+data/Library/ShaderCache/8/85a5e433c3bbc9cfff3910a9da1749f9.bin.i
+data/Library/ShaderCache/2/288349e59f4736571b74355532e06191.bin.i
+data/Assets/Models/Shell.fbx.meta.i
+data/Library/metadata/18/18b91636de2ba3445913e4cf38528dc8.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs.i
+data/Assets/Materials/Explosion.mat.i
+data/Library/metadata/95/95616c020c5604dda96cf76afbbc0272.i
+data/Library/metadata/ce/ce0cb2621f6d84e21a87414e471a3cce.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.i
+data/Library/metadata/d7/d7ca9fb5aa30155449192b23d7fb3336.info.i
+data/Assets/AudioClips.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.d
+data/Assets/Models/Column01.FBX.i
+data/Library/ShaderCache/5/5166699c1f2a17902583448874e86699.bin.i
+data/Library/metadata/83/83d8db0ec466c14429f58c68c16398a1.i
+data/Library/metadata/32/32145277a30f2c840a782ff0c6321632.info.i
+data/Library/metadata/a6/a678ab9f67b4ce84093be35214bdb92d.d
+data/Library/metadata/b6/b61f0d8d8244b4b28aa66b0c8cb46a8d.i
+data/Library/ShaderCache/c/cbe4f1f0fd595984d9d88d12fea6ac77.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts.meta.i
+data/Library/metadata/7a/7a43051ea413c884fb05edbbb60d7cc3.info.i
+data/Library/metadata/29/2964d4e5af87e5245bdd71b73e9b92f1.i
+data/Library/metadata/be/becb33cd9bbfa40e48d86d94a4901be2.i
+data/Library/ShaderCache/5/56c0837ab97b8e84ffce8a03fc64ade5.bin.i
+data/Assets/_Scenes.meta.i
+data/Library/metadata/6c/6cc27d206e06258438dbc4bb795885b9.i
+data/Library/ShaderCache/f/f5fa91f91fb1305c989c40029ebd4fe8.bin.i
+data/Library/ShaderCache/2/212be0a3c1eb11ab99e5e14ba99f0e4f.bin.i
+data/Library/metadata/03/03b431caad1c74a90b83f7877c7c31f9.info.i
+data/Library/metadata/a4/a4a9489f73e4f0344ab3fc97bdf5170b.i
+data/Library/ShaderCache/a/af3afb812118568c00753f021900e8e0.bin.i
+data/Library/ShaderCache/b/be55b9f6986b9e8d5cb493a7189e3497.bin.i
+data/Library/ShaderCache/b/b8851a521b36b381bb8a2445fa5f4e8c.bin.i
+data/Library/metadata/14/14768d3865b1342e3a861fbe19ba2db2.i
+data/Library/metadata/50/50912a5d3c9322a46afa5ca162962a5c.i
+data/Library/metadata/ba/ba15fa37442517749a3c4640a4ad4054.i
+data/Library/ShaderCache/9/94d8e2475726c585a2feebb6b93f462d.bin.i
+data/Library/metadata/d8/d8e82664aa8686642a424c88ab10164a.info.i
+data/Library/ShaderCache/7/7db6c3b37fb0e5879ab616b7cfc1b51d.bin.i
+data/Library/LibraryFormatVersion.txt.i
+data/Library/metadata/a4/a4cdca73d61814d33ac1587f6c163bca.info.i
+data/Library/ShaderCache/8/8bcbad577c2af28801ec9db0f13178fc.bin.i
+data/Assets/Materials/YellowDark.mat.i
+data/Library/metadata/18/18e521b6f8588c44f9e68c769421eb47.i
+data/Library/metadata/85/85a88efa8c871af4a9d17c64791b6f4f.i
+data/Library/ShaderCache/6/65c9caf9948714ff81f9b5e8b3add4c8.bin.i
+data/Library/metadata/d7/d7962f90116a5c94d9a7a2b2e4fbc1b2.i
+data/Library/metadata/7a/7a43051ea413c884fb05edbbb60d7cc3.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs.meta.i
+data/Library/ShaderCache/8/8462d84888516f225fe382c199c56f9d.bin.i
+data/Library/ShaderCache/b/b6ae18b66e5b5f102823108e766698f9.bin.i
+data/Library/metadata/01/017ca72b9e8a749058d13ebd527e98fa.info.i
+data/Library/CurrentLayout.dwlt.i
+data/Library/AssetImportState.i
+data/Library/ShaderCache/8/8527ba22c69d9d97f5b1bac79a72710d.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs.i
+data/Library/metadata/c5/c547503fff0e8482ea5793727057041c.info.i
+data/Library/ShaderCache/b/b862563c5530e781b665e9f330862737.bin.i
+data/Library/metadata/00/00000000000000008100000000000000.i
+data/Library/metadata/0a/0aeaa4cb29f5d4e9c8455f04c8575c8c.info.i
+data/Library/metadata/62/6221f2fbc7212d94cb9c069ee262d824.info.i
+data/Library/ShaderCache/2/2c9210f4f3dcf776743a917736944bde.bin.i
+data/Library/ShaderCache/a/a6678a09da9149edb4bc42074d3a0468.bin.i
+data/Library/metadata/38/38b4fea28f58d3641980a70a5188e750.info.i
+data/Library/metadata/e9/e9ba2083ad114a07d000fbfb8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs.i
+data/Library/ShaderCache/a/aa491ef1915775a09076fd48c31ce842.bin.i
+data/Library/ShaderCache/b/b6473d50121143d25ca1df9d1a506ca4.bin.i
+data/Library/ShaderCache/a/a6ce0c7c193a8f1ab28e0f9ac093cca2.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs.meta.i
+data/Library/metadata/22/225198e07aaae3547a6d1f6e7177555f.i
+data/Library/metadata/a2/a20852ce049f64e4695a48b6a354be83.i
+data/Library/metadata/c1/c16b1f8aa5fb9442bb034ef70da16224.i
+data/Library/metadata/02/02b820a84373d40c98ad6233146a4533.i
+data/ProjectSettings/NavMeshAreas.asset.i
+data/Assets/Models/PalmTree.fbx.i
+data/Library/metadata/a2/a22b3a7095a744a428c134b5e26ad68e.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.meta.i
+data/Assets/Materials/BuildingGlass.mat.meta.i
+data/Assets/Materials/Brown.mat.i
+data/Library/metadata/a0/a07a781cad112c75d0008dfa8d76c639.i
+data/Library/metadata/03/03ad6a4c3c0e64440b1d6cee74fc2a4f.info.i
+data/Library/metadata/82/824a5f0e2f5594247b38bce9a5e2ea3c.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs.i
+data/Library/metadata/75/75c7b81c3ec19b94b9115287ce283046.info.i
+data/Library/metadata/a4/a40c1b84cf7fe418bae97a29041b85a4.info.i
+data/Library/ShaderCache/c/c26ef6d51bf916e6eb596ead7ff21abf.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader.meta.i
+data/Library/ShaderCache/8/85f63671703cd4eff6f728f9f8b6be5f.bin.i
+data/Library/ShaderCache/d/d7d66faee63f5631300800574918b75d.bin.i
+data/Assets/Editor/ImageEffects/DepthOfFieldEditor.cs.meta.i
+data/Library/ShaderCache/0/07ee713955be3471b7778d14e7000246.bin.i
+data/Library/metadata/47/478a2083ad114a07d000fbfb8d76c639.i
+data/Library/metadata/d6/d6e0c95a128e14227939c51b5d9ad74e.info.i
+data/Library/ShaderCache/b/bb61870e1d2e2ea04c73fab45d9042e8.bin.i
+data/Library/metadata/f0/f00016a766df24d4e9bf2aea20bf8b71.info.i
+data/Library/metadata/b2/b2145489f7c704db8acb14a52bddeee9.info.i
+data/Library/metadata/32/32145277a30f2c840a782ff0c6321632.i
+data/Library/metadata/bd/bd70d448b18cfbc46af26466f752332c.i
+data/Library/ShaderCache/d/dcac85336d26d458bb5d8445b5bb063b.bin.i
+data/Library/metadata/1b/1be963428ec33174f88161c5980f3faa.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.meta.i
+data/Library/metadata/7e/7e41e83d6bd224b4d99fa3ffa5e3a3a4.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png.meta.i
+data/Assets/Prefabs/PumpJack.prefab.meta.i
+data/Library/metadata/78/78415c8d6452baf4db826588249b5ff4.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader.i
+data/Library/metadata/b5/b5f1618d14cd80f4da910f00b04af37f.i
+data/Library/metadata/8e/8e2e7f1c0de3a1e4bab7041325aef152.info.i
+data/Assets/Models/Concrete.fbx.i
+data/Library/ShaderCache/2/2718c3b8c87ccde1cbd2d0699274f135.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader.i
+data/Assets/Materials/Green.mat.i
+data/Library/ShaderCache/8/81b949fef46fa676447bd5dfff705b1d.bin.i
+data/Assets/Prefabs/Tank.prefab.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader.i
+data/Assets/AudioClips/EngineDriving.aif.meta.i
+data/Library/metadata/ac/acd613035ff3e455e8abf23fdc8c8c24.info.i
+data/Library/metadata/89/89e78efe92dfe5a42837b392cdb0bf9e.i
+data/Library/ShaderCache/f/f33731f781e6cf176016594b5fc01bf1.bin.i
+data/Library/metadata/57/57e6deea7c2924e22a5138e2b70bb4dc.info.i
+data/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.info.i
+data/Library/ShaderCache/5/529b2de35eb49123eb3c47bf9b8a9fdb.bin.i
+data/Library/ShaderCache/c/cba3db35b50b2ff339da1478bd886b4f.bin.i
+data/Library/ShaderCache/e/e506bc17486fe4468e730e59282ee25a.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader.i
+data/Assets/Models/Cliff.fbx.meta.i
+data/Library/metadata/ea/ea59781cad112c75d0008dfa8d76c639.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs.meta.i
+data/Assets/Editor/ImageEffects/NoiseAndGrainEditor.cs.meta.i
+data/Library/ShaderCache/a/a6aff934d4ecb274a6490bbd2437c3ab.bin.i
+data/Assets/Editor/MoveSceneViewCamera.cs.meta.i
+data/Library/ShaderCache/b/b12083885e28706b6344e2e4909361f8.bin.i
+data/Library/ShaderCache/f/f40b9fbd206372566907aa478159a2d2.bin.i
+data/Library/ShaderCache/3/322aa5b9ae9424f11fa94c2de075fee6.bin.i
+data/Library/ShaderCache/0/0255893e3b61a955aefbe489d5fdcce0.bin.i
+data/Library/metadata/85/852e56802eb941638acbb491814497b0.info.i
+data/Library/metadata/f6/f6469eb0ad1119d6d00011d98d76c639.info.i
+data/Library/ShaderCache/0/0a076ff9af0991b958c68fb5e0a5a170.bin.i
+data/Library/ShaderCache/3/35ececb438f1356c4e5d89cee4dded62.bin.i
+data/Library/ShaderCache/d/df8329dbf639660cd44969d6be7bc7ae.bin.i
+data/Library/metadata/98/987fb0677d01f43ce8a9dbf12271e668.i
+data/Library/metadata/73/730475ee64f9a894bbac0d9e6f22e813.info.i
+data/Library/metadata/ab/ab943d3d5ac38bb448fabe3cdc9516d1.i
+data/Library/ShaderCache/c/c930cddeaa79365d8aed0474d149103d.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader.meta.i
+data/Library/ShaderCache/b/be13c021dc421cf3db31804a304a1202.bin.i
+data/Assets/AudioClips/ShotCharging.wav.i
+data/Library/ShaderCache/a/a1f49450e7a47f8e38551521b46fb564.bin.i
+data/Library/ShaderCache/1/12aeef969087c9022b612e6ac9c98d7e.bin.i
+data/Library/ShaderCache/d/dd0acaf80f4c9ff6d0840a3afd575045.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta.i
+data/Library/metadata/e2/e2baf3cae8edc4daf94c9adc2154be00.info.i
+data/Assets/Models/Concrete.fbx.meta.i
+data/Library/ShaderCache/1/1889ff417d85c83c85330f76efd540ed.bin.i
+data/Library/expandedItems.i
+data/Library/ShaderCache/9/9da94e4b6eb4097a3d0e4ad16c4d1edd.bin.i
+data/Assets/Models/Rocks02.fbx.meta.i
+data/Library/metadata/f6/f6469eb0ad1119d6d00011d98d76c639.i
+data/Library/metadata/49/4975a6e437fc3b149a8cd508ce5bdd69.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.meta.i
+data/Library/metadata/38/38b4fea28f58d3641980a70a5188e750.i
+data/Library/metadata/a9/a9df009a214e24a5ebbf271595f8d5b6.info.i
+data/Library/metadata/00/00000000000000007100000000000000.i
+data/Assets/Models/Terrain.fbx.meta.i
+data/Library/metadata/2b/2b4f29398d9484ccfa9fd220449f5eee.i
+data/Library/ShaderCache/a/a5099861cc7e9374a252331224ce34e8.bin.i
+data/Library/ShaderCache/7/7caed19bca3116062d7d2847f2822a76.bin.i
+data/Assets/Fonts.meta.i
+data/Library/metadata/00/00000000000000004100000000000000.info.i
+data/Library/metadata/00/00000000000000004100000000000000.i
+data/Library/ShaderCache/d/d7f43afab8f026907f000b0a25bf6aca.bin.i
+data/Library/metadata/74/74d835b756ff5654f8060c76cbcb4e19.i
+data/Library/ShaderCache/d/de3c37a5f7448167f0a59c0dc545af1c.bin.i
+data/Library/ShaderCache/8/8231b6cde7652e9dc53ac602329d2e59.bin.i
+data/Library/metadata/d9/d9cccf980fcb7441d85b8b3b5c2d2c34.info.i
+data/Library/ShaderCache/4/4faae8e7ddee2094386759d85f19170c.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader.i
+data/Library/metadata/bb/bb4af680337344a4abad65a4e8873c50.i
+data/Library/ShaderCache/5/5e5fb2a48e8f386844216c8864a0301d.bin.i
+data/Library/metadata/c4/c4c5f95d06932564c8672b4bafeb1b28.i
+data/Library/metadata/d0/d0c31a39c426da94496d2abbf928d525.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader.meta.i
+data/Assets/Materials/BuildingWhite.mat.i
+data/Library/metadata/46/463052f3f7389124f9e7b34b0b931d0d.i
+data/Library/metadata/1a/1ac54707d3a75084eb41ad5c4c3a43b5.info.i
+data/Library/ShaderCache/b/bff2ade310ceaccc60f11cdfc71f9bf3.bin.i
+data/Library/metadata/ce/ce454584ce15d4a0aa3db593906d0339.info.i
+data/Library/ShaderCache/2/26e5b3ce3a9801da6687526a822084b5.bin.i
+data/Library/ShaderCache/4/45fc402dd04f478dcf5ffd1f244af7e5.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs.meta.i
+data/Library/metadata/a9/a94b781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs.meta.i
+data/Library/ShaderCache/9/9cceb56649cb248749b300233c84c4f2.bin.i
+data/Library/ShaderCache/4/43fdcad078de5cadbc7f303e1a504695.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs.i
+data/Library/metadata/8c/8c6d26fe262194242becdec17209d306.info.i
+data/Library/ShaderCache/9/92b1f7ecf10e2f5340e4f4cf73cfb8c1.bin.i
+data/Library/ShaderCache/0/08a6dfc10a335665f5bcaa04285daec2.bin.i
+data/Library/metadata/67/67f8781cad112c75d0008dfa8d76c639.i
+data/Library/ShaderCache/9/9437c754acb3f350949e47d2077aeea0.bin.i
+data/Library/metadata/5c/5c27182a28a7eb942a362e6d198fe0e6.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader.i
+data/Library/metadata/65/65b34bd0b696fd64c809daa8ff1aac63.i
+data/Library/ShaderCache/0/074e9e77c01f5e098efd8d5effea1be5.bin.i
+data/Assets/_Scenes/Main.unity.i
+data/Library/metadata/49/4932ab25b84dd7649b80af68a9660ddc.resource.i
+data/Assets/Sprites/Smoke.tif.meta.i
+data/Library/metadata/49/4932ab25b84dd7649b80af68a9660ddc.resource.d
+data/Library/ShaderCache/6/652530ac4faccade818f2d5577cddcc7.bin.i
+data/Library/ShaderCache/3/3526506ec0df3d88f2b5a04d75a563b7.bin.i
+data/Library/ShaderCache/e/e084c149fab177f3a74dfbccde0775a1.bin.i
+data/Library/metadata/83/8326b9dca06e5bc4885942c9371f51f1.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader.i
+data/Library/ShaderCache/d/d77e03c5b824b76cb0d43435cca804a8.bin.i
+data/Library/ShaderCache/d/de7030b3c563d22504f36196c1d63b50.bin.i
+data/Library/ShaderCache/9/9764bb65c71794db0aa1d078cb9d8aaa.bin.i
+data/Assets/Materials/Explosion.mat.meta.i
+data/Library/metadata/c5/c54e3c1f18f8cbb49b10f5e2dc8a1865.info.i
+data/Library/ShaderCache/3/3c515507f5476d2231b760f9ca44d17c.bin.i
+data/Library/ShaderCache/2/2cbf85bd6c71ed834c9ae630a10eeec0.bin.i
+data/Assets/Models/Dunes02.fbx.i
+data/Library/metadata/d6/d64b4f3a592f28b44bf19223ac8b6cd2.info.i
+data/Library/ShaderCache/4/439d023942d3df98e811eb3babad99f7.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs.meta.i
+data/Library/ShaderCache/9/90e2019bf24e69f9ce38eec7377b2692.bin.i
+data/Library/ShaderCache/d/dae8782f6d4a95368df37f35e4fa1d88.bin.i
+data/Library/ShaderCache/e/e69f65234ee4b7a3e2ef961debb46b8d.bin.i
+data/Library/metadata/67/672a9941361ad494a99fba36759eca80.info.i
+data/Assets/_Scenes/Main2/LightingData.asset.meta.i
+data/Assets/Materials/Smoke.mat.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs.i
+data/Library/ShaderCache/c/ca0ea2b6285bd67c067d3a2659875624.bin.i
+data/Library/metadata/64/646b5bc27a658f447b1d929fd5ffbd70.i
+data/Library/ShaderCache/5/59b3b9ff04274384ee29bf7a9957b0f2.bin.i
+data/Assets/Materials/YellowDark.mat.meta.i
+data/Library/metadata/0d/0df7b64f0e702f14897580a356feae92.info.i
+data/Library/ShaderCache/3/383207cadeadc25e1c48cc50c0d1d058.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs.i
+data/Assets/Models/Tree.fbx.meta.i
+data/Library/ShaderCache/5/57d651eb93c433b19c77b446e6d80de0.bin.i
+data/Library/ShaderCache/6/6afb837ef90dfe8220908abee9502226.bin.i
+data/Library/metadata/d3/d3b1c8c1036784176946f5cfbfb7fe4c.info.i
+data/Library/metadata/6f/6f19108706fdce9469603d07980eb8ad.i
+data/Library/metadata/8c/8cde8c0fd649d9b46bb403ba5e157391.i
+data/Library/metadata/22/225198e07aaae3547a6d1f6e7177555f.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader.i
+data/Assembly-CSharp.csproj.i
+data/Library/metadata/b0/b0249d8c935344451aa4de6db76f0688.i
+data/Library/metadata/95/95ef4804fe0be4c999ddaa383536cde8.info.i
+data/Assets/Models/Column02.FBX.meta.i
+data/Library/metadata/0d/0d1644bdf064147baa97f235fc5b4903.info.i
+data/Assets/Models/Refinery.fbx.i
+data/Library/metadata/88/88aed18ae5498b84bb8411ee4db7802f.info.i
+data/Library/ShaderCache/f/f8aeb4d48a18f65f85370ba07d33051b.bin.i
+data/Library/metadata/57/57e6deea7c2924e22a5138e2b70bb4dc.i
+data/Library/ShaderCache/4/402d9bc87d3fde7ae0c39b45319c9e14.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs.meta.i
+data/Assets/Models/Helipad.fbx.meta.i
+data/Library/metadata/1a/1ac54707d3a75084eb41ad5c4c3a43b5.i
+data/Assets/Scripts/UI/UIDirectionControl.cs.i
+data/Library/metadata/6d/6d55b5e91b95c41739cdf4f804dd383d.info.i
+data/Library/ShaderCache/c/c877a2513e93b14c417953ea394eb616.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.meta.i
+data/Assets/Models/Refinery.fbx.meta.i
+data/Library/ShaderCache/c/c714150e911ecbdea528a16b1516d094.bin.i
+data/Library/metadata/0f/0f7cab214f141f642b87a5bdbd14653e.i
+data/Library/metadata/47/4739c22ef73ad62488fe344c8fe9addd.info.i
+data/Library/metadata/f9/f9372f23586ef470b97d53856af88487.i
+data/Library/ShaderCache/2/2c27fa9961083f7da5b0ccf7dfd1bbe3.bin.i
+data/Library/InspectorExpandedItems.asset.i
+data/Library/ShaderCache/a/ae015cd8d6a7ec703c51d7f0b3300394.bin.i
+data/Library/ShaderCache/1/151b8fbb491d0f99ccda290c0d6482f5.bin.i
+data/Library/metadata/c3/c39933e60e73205419d1f79a2af1fdac.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.i
+data/Assets/Sprites/Smoke.tif.i
+data/Library/metadata/74/74d835b756ff5654f8060c76cbcb4e19.info.i
+data/Library/metadata/f1/f1b13d7a80660504a858ea24cfa418c6.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs.i
+data/Library/metadata/14/14768d3865b1342e3a861fbe19ba2db2.info.i
+data/Library/ShaderCache/7/724a647dfa1619bd38b766b34be775fd.bin.i
+data/Library/metadata/00/00b5a8045a3c3914bb0dfdf2d62f05c9.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader.meta.i
+data/Library/metadata/a4/a40c1b84cf7fe418bae97a29041b85a4.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs.i
+data/Assets/Fonts/Bowlby_One/BowlbyOne-Regular.ttf.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png.meta.i
+data/Library/ShaderCache/8/8f8b457fb85030857b504074f7582aaf.bin.i
+data/Library/ShaderCache/c/c10431e8d0aabe94d6fb85eeacfc7e25.bin.i
+data/Assets/Editor/ImageEffects/AntialiasingEditor.cs.i
+data/Library/ShaderCache/b/b937688138e1f68d790edad23b82408b.bin.i
+data/Assets/AudioClips/ShotFiring.wav.meta.i
+data/ProjectSettings/UnityConnectSettings.asset.i
+data/Library/ShaderCache/5/56bef91bcc5b95ebdf0f9641e16f38fd.bin.i
+data/Library/metadata/33/3309686a9fbbe6e42a182d5e0257704c.i
+data/Library/ShaderCache/1/1c331878798ec530ffaa1fb7552ceecd.bin.i
+data/Library/metadata/cd/cd3e1490c3d9a7a498538315414d5129.info.i
+data/Assets/Editor/ImageEffects/CameraMotionBlurEditor.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs.meta.i
+data/Assets/Sprites/Health Wheel.png.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader.meta.i
+data/Library/ShaderCache/2/2ccf2635d6e9c0d3f4a3b6194056e038.bin.i
+data/Library/metadata/c2/c2d6bea73573c9f4499c64d2b2f5f0ca.i
+data/Library/metadata/00/00000000000000005000000000000000.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.meta.i
+data/Library/metadata/b3/b3728d1488b02490cbd196c7941bf1f8.info.i
+data/Assets/Models/OilStorage.fbx.i
+data/Library/metadata/34/34382083ad114a07d000fbfb8d76c639.i
+data/ProjectSettings/TimeManager.asset.i
+data/Library/metadata/5c/5c27182a28a7eb942a362e6d198fe0e6.info.i
+data/Library/metadata/57/57b33a14b6d5347c5a85c36f6cb3b280.i
+data/Library/metadata/12/12c120f2400576c4f97a98bcca5529bc.info.i
+data/Library/ShaderCache/5/5082bd124ff680ad8b9af79b23f7ea47.bin.i
+data/Library/ShaderCache/6/6b21b8cb57d32fe718426ff8cd61ff06.bin.i
+data/Library/metadata/87/87bf8b67d0a902842a3b617c1c75d6e5.info.i
+data/Library/metadata/c1/c17f124fcdc0f5446a72f793898bd74b.info.i
+data/Library/ShaderCache/f/f43369040f3c8e10a51341630401842e.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs.meta.i
+data/Library/metadata/f7/f7898d203e9b94c0dbe2bf9dd5cb32c0.i
+data/Assets/Scripts/Tank/TankMovement.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png.meta.i
+data/Library/metadata/bb/bb4af680337344a4abad65a4e8873c50.info.i
+data/Library/metadata/75/75c7b81c3ec19b94b9115287ce283046.i
+data/Assets/Prefabs/DustTrail.prefab.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader.i
+data/Library/metadata/47/4739c22ef73ad62488fe344c8fe9addd.i
+data/Library/metadata/c7/c7dd97e9cd879304795b366cbf187bfe.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader.meta.i
+data/Library/ShaderCache/4/43bd664eac623559f1804e4d3c7bdf10.bin.i
+data/Assets/Materials/Grey.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader.i
+data/Library/metadata/87/874ceab4425f64bccb1d14032f4452b1.i
+data/Library/ShaderCache/f/fe489df6e1141b9c05e7d187c94db1bc.bin.i
+data/Assets/Models/Building02.fbx.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.i
+data/Library/ShaderCache/e/e28eeeaeac927ba3c199b50add04b07d.bin.i
+data/Assets/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs.meta.i
+data/Library/metadata/83/8326b9dca06e5bc4885942c9371f51f1.i
+data/Assets/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs.i
+data/Library/ShaderCache/1/1811707db2b4f8f1aec6d3bb82a1250b.bin.i
+data/Library/metadata/f9/f9372f23586ef470b97d53856af88487.info.i
+data/ProjectSettings/Physics2DSettings.asset.i
+data/Library/ShaderCache/c/c8c122705e7d6c59f5758ffdf8985011.bin.i
+data/Assets/Models/Crater01.fbx.i
+data/Library/ScriptAssemblies/Assembly-CSharp.dll.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png.meta.i
+data/Library/metadata/00/00b5a8045a3c3914bb0dfdf2d62f05c9.info.i
+data/Library/metadata/b3/b3728d1488b02490cbd196c7941bf1f8.i
+data/Library/ShaderCache/5/5d73a293fd07dbfe4d7d8eb56b1abe03.bin.i
+data/Library/ShaderCache/4/458091dc761a72c67208a7cf05d61b1e.bin.i
+data/Library/ShaderCache/8/8f29b7dc4031bdc752b4501edf0fe8f0.bin.i
+data/Library/metadata/89/89a037199d11087f1100e2b844295342.info.i
+data/Library/ShaderCache/9/9015b6f810b213a2af7674ee39783a18.bin.i
+data/Library/metadata/49/4975a6e437fc3b149a8cd508ce5bdd69.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader.i
+data/Library/metadata/00/0000000000000000a100000000000000.i
+data/Library/metadata/46/46e032e6247865441876c868e03138e3.i
+data/Library/metadata/65/65b34bd0b696fd64c809daa8ff1aac63.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/Noise.png.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader.i
+data/Library/ShaderCache/9/982d437dbfd927ebeb1cd24fdb44a4f9.bin.i
+data/Library/ShaderCache/3/343b5fa21c314718b1e7118d9efa7313.bin.i
+data/Library/metadata/78/7856cbff0a0ca45c787d5431eb805bb0.info.i
+data/Assets/Materials/Gold.mat.meta.i
+data/Library/ShaderCache/e/e0a60cfe136014e7440b349268bac6d5.bin.i
+data/Library/ShaderCache/2/2ec59c4a22343b25bfa01f20f7452413.bin.i
+data/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.i
+data/Library/metadata/87/87bf8b67d0a902842a3b617c1c75d6e5.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs.i
+data/Library/metadata/00/002e2a607f5b64c48be0b3b0d8b8bfdd.d
+data/Library/metadata/00/002e2a607f5b64c48be0b3b0d8b8bfdd.i
+data/Library/metadata/c3/c39933e60e73205419d1f79a2af1fdac.info.i
+data/Library/ShaderCache/f/f4b3c0b38c45ca6f2e712827b6ac2d68.bin.i
+data/Library/metadata/ce/ce0cb2621f6d84e21a87414e471a3cce.info.i
+data/Library/metadata/e5/e515e0f94cefc4c0db54b45cba621544.i
+data/Library/ShaderCache/8/81166af56652c5cc1604b0a2c633ff5c.bin.i
+data/Library/ShaderCache/a/a87c560a87897e367f0a2c67cd3696b8.bin.i
+data/Library/metadata/8c/8ce5d020a687c314891341b4126d1de2.resource.d
+data/Library/metadata/8c/8ce5d020a687c314891341b4126d1de2.resource.i
+data/Library/metadata/d6/d6e0c95a128e14227939c51b5d9ad74e.i
+data/Library/LastSceneManagerSetup.txt.i
+data/Assets/Materials.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta.i
+data/Assets/Materials/Blue.mat.i
+data/Library/ShaderCache/7/71a9176d763abfe5612eabc8e97663d4.bin.i
+data/Library/ShaderCache/1/17d1afdbd1ec29a210323d85f259a389.bin.i
+data/Library/ShaderCache/a/a251ab86873ab82e844ffa1350a6ae74.bin.i
+data/Library/ShaderCache/2/200b4297855122198e1443d19409ed03.bin.i
+data/Assets/Models/Crater01.fbx.meta.i
+data/Library/metadata/b0/b0923359e9e352a4b9b11c7b7161ad67.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs.meta.i
+data/Library/metadata/70/70d8568987ac0499f952b54c7c13e265.info.i
+data/Library/metadata/e3/e307cb54b57a59342868ad47d1ed0c30.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc.i
+data/Assets/AudioClips/EngineDriving.aif.d
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs.meta.i
+data/Assets/AudioClips/EngineDriving.aif.i
+data/Library/metadata/68/68a00c837b82e4c6d92e7da765dc5f1d.i
+data/Library/metadata/fd/fd9c214f640fae348958e74eaea6f543.info.i
+data/Library/metadata/ae/aef18f364fed1a64ba495d15dcee610d.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader.meta.i
+data/Library/metadata/00/00e05bd2046fb4e5d93f1848da4734ee.i
+data/Library/metadata/6f/6f6ed432a84a6894383f9d063e5c1f1f.info.i
+data/Library/ShaderCache/2/29f31c73c378c3e8c13f24e9d1e9341a.bin.i
+data/Assets/Models/Rocks02.fbx.i
+data/Library/ShaderCache/b/b314f3e47c498f5b29c96a822f4b8388.bin.i
+data/Library/ShaderCache/2/2f223aa10e17faa28eeacce5646ec632.bin.i
+data/Library/metadata/03/0336cc9e4e68ca84392077b848decb81.info.i
+data/Library/ShaderCache/2/24db68a4cb9f4ab1b16897a5179f8ba3.bin.i
+data/Library/ShaderCache/d/d16fa3797126878fffbdae06e13ca458.bin.i
+data/Assets/Standard Assets/Effects.meta.i
+data/Assets/AudioClips/EngineIdle.aif.i
+data/Library/metadata/62/627943dc7a9a74286b70a4f694a0acd5.info.i
+data/Assets/AudioClips/EngineIdle.aif.d
+data/ProjectSettings/EditorSettings.asset.i
+data/Library/metadata/02/02b820a84373d40c98ad6233146a4533.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.meta.i
+data/Library/ShaderCache/3/3666699f7b9c4d34fd0d6abd66b8d9f5.bin.i
+data/Library/ShaderCache/5/5a855538221bda33c5b48ff4fd5ae9e3.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta.i
+data/Library/ShaderCache/7/77cddd7326364bbc40a884dd6d15c7b2.bin.i
+data/Library/BuildPlayer.prefs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader.meta.i
+data/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.i
+data/Library/metadata/7f/7fc6bde01469c7b4badee5362f191d96.i
+data/Library/ShaderCache/7/75772fcf80e80e382cab53268e930c30.bin.i
+data/Library/metadata/87/874ceab4425f64bccb1d14032f4452b1.info.i
+data/Assets/AudioClips/BackgroundMusic.wav.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader.meta.i
+data/Assets/Materials/Dust.mat.meta.i
+data/Library/metadata/c2/c2d6bea73573c9f4499c64d2b2f5f0ca.info.i
+data/Library/ShaderCache/3/3b643542c522d4e9281a37cc90b87d81.bin.i
+data/Library/metadata/dd/dd6d4281e5d7cd44d8c6e38bc2c1b8d8.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader.meta.i
+data/Assets/Models/Rocks03.fbx.i
+data/Library/metadata/7f/7fa610bf2b9bccd48a9b3a6d79f90a37.info.i
+data/Library/metadata/ef/ef94ef5de0736094c917c0e0217691b6.info.i
+data/Library/ShaderCache/9/9e0f02144747005f4ed8c23ac511b42f.bin.i
+data/Assets/Prefabs/LevelArt.prefab.meta.i
+data/Library/metadata/00/0000000000000000c000000000000000.info.i
+data/Assets/Models/Cow.fbx.meta.i
+data/Library/ShaderCache/1/127fc47f92c05bcab932370afa950f57.bin.i
+data/Library/ShaderCache/7/7626215cbfb8ebcab52f995b156438a7.bin.i
+data/Library/metadata/a2/a20852ce049f64e4695a48b6a354be83.info.i
+data/Library/ShaderCache/f/f223c800d99d2f7537cdf5eda91b32c5.bin.i
+data/Library/ShaderCache/1/17c401c614204addb1fe7785991ef27f.bin.i
+data/Library/metadata/32/327f44d86230f28468dc6a953ee98fa5.info.i
+data/Library/ShaderCache/4/4efb6ae4b6e5222f7854df0177864294.bin.i
+data/Assets/Scripts/Managers/GameManager.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader.i
+data/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs.meta.i
+data/Library/metadata/12/12783825d19a606449c1d81b822fb4a2.d
+data/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb.i
+data/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e.i
+data/Library/metadata/12/12783825d19a606449c1d81b822fb4a2.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.meta.i
+data/Library/ShaderCache/e/e5392e5c95ddab55d536afe17bdfecc1.bin.i
+data/Library/ShaderCache/1/1725b16ac3a75b73ff646bb2f443dc6c.bin.i
+data/Library/ShaderCache/e/e34f2d495155bf8a8fb3e935340d7a23.bin.i
+data/Library/ShaderCache/0/0956c7d6336339e9ad778761668e1f6c.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs.meta.i
+data/Library/metadata/a1/a1194fc0a76098e499948ecf77b6acdf.info.i
+data/Library/metadata/87/87d2e70ca18454e4f855f8d99afb32e3.i
+data/Assets/Scripts/Camera/CameraControl.cs.meta.i
+data/Library/ShaderCache/8/8285005b7ea7d104d460f3e2b7d0ea35.bin.i
+data/Library/metadata/12/12783825d19a606449c1d81b822fb4a2.i
+data/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.info.i
+data/Assets/Models/Cow.fbx.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png.meta.i
+data/Library/ShaderCache/7/78348587d619213dc0a126dbbf37c24c.bin.i
+data/Library/metadata/b8/b83bf9933497ccf459675b37a3115920.info.i
+data/Library/metadata/b6/b61f0d8d8244b4b28aa66b0c8cb46a8d.info.i
+data/Library/metadata/b2/b2145489f7c704db8acb14a52bddeee9.i
+data/Library/ShaderCache/2/2d4caa5493f26c1f949e33a3a083d3f7.bin.i
+data/Assets/Models/Shell.fbx.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs.meta.i
+data/Assets/Models/Dunes02.fbx.meta.i
+data/Assets/Models/Rocks03.fbx.meta.i
+data/Library/metadata/64/641b781cad112c75d0008dfa8d76c639.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.meta.i
+data/Library/metadata/8e/8e2e7f1c0de3a1e4bab7041325aef152.i
+data/Library/metadata/27/273404942eede4ea1883ca1fb2942507.i
+data/Library/metadata/00/00000000000000005100000000000000.i
+data/ProjectSettings/QualitySettings.asset.i
+data/Library/metadata/be/be6e39cf196f146d5be72fbefb18ed75.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs.i
+data/Library/metadata/b0/b0923359e9e352a4b9b11c7b7161ad67.i
+data/Assets/Prefabs.meta.i
+data/Library/ShaderCache/c/cf42ba77214e7221e13a7e6b110693d8.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs.i
+data/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.i
+data/Library/metadata/1f/1fd999d1b2cf94a45a5b0a47ce074bef.i
+data/Library/ShaderCache/1/1fec5a0f2e7c4cb861cd0ad3af124db4.bin.i
+data/Assets/Models/Rocks01.fbx.i
+data/Library/metadata/4d/4deca87cb459d1642ac8f734856ca84e.info.i
+data/Library/ShaderCache/1/193f67414961d87d38d550bec389d724.bin.i
+data/Library/ShaderCache/f/f14da329ae11d2e66cd6708ff2eabdf2.bin.i
+data/Library/metadata/e5/e50e925fb93c78246bf995d9dc3a2330.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader.meta.i
+data/Library/ShaderCache/0/0ab2316752bf56e2806ca438865bcfba.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.i
+data/Assets/Models/Cactus.fbx.meta.i
+data/Library/ShaderCache/0/0eac5937af2bece34b2c7d30422ce94c.bin.i
+data/Library/ShaderCache/7/77f8160eb86bddd13391b60261ec8fe1.bin.i
+data/Library/metadata/9e/9ed1e8a25f964bd4298944675e425a0d.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.i
+data/Assets/Prefabs/PumpJack.prefab.i
+data/Library/metadata/3a/3a77defcde1caaa40b6f7502547e0c4e.resource.i
+data/Library/ShaderCache/6/6283d86496291bdf64916490d7b7e24c.bin.i
+data/Library/ShaderCache/5/5d4d89ff5d8e917d15bb8068dfc3587b.bin.i
+data/Library/metadata/8c/8c6d26fe262194242becdec17209d306.d
+data/Library/metadata/3a/3a77defcde1caaa40b6f7502547e0c4e.info.i
+data/Library/ShaderCache/3/3afc62ef0a047bb486ffc6e80f3d0554.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader.i
+data/Library/metadata/4a/4a77fdcebbe85f14ab98dfad5da07c20.info.i
+data/Library/metadata/8c/8c6d26fe262194242becdec17209d306.i
+data/Library/ShaderCache/0/0b5408af6e11f13e76dffc52880dbbc3.bin.i
+data/Assets/Materials/BuildingStone.mat.meta.i
+data/Tanks.userprefs.i
+data/Library/metadata/31/31f5a8611c4ed1245b18456206e798dc.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta.i
+data/Library/metadata/6c/6cc27d206e06258438dbc4bb795885b9.info.i
+data/Assets/Models/Building01.fbx.i
+data/Library/ShaderCache/3/3099ea7671225dc6792463447e24be42.bin.i
+data/Library/ProjectSettings.asset.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.meta.i
+data/Assets/Scripts/Shell/ShellExplosion.cs.i
+data/Library/shadercompiler-UnityShaderCompiler0.log.i
+data/Library/metadata/22/22c7d7ea0e44ffc46936169d62a32f92.i
+data/Library/metadata/95/95ef4804fe0be4c999ddaa383536cde8.i
+data/Library/metadata/f7/f7898d203e9b94c0dbe2bf9dd5cb32c0.info.i
+data/Library/ShaderCache/f/f0fbec2cfb4601cdce706e5ffc556757.bin.i
+data/Library/ShaderCache/5/56b2c76ce8b1f16e45d57f3f7e85bdf5.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs.meta.i
+data/Library/ShaderCache/5/52313417f540df3400862e4583e90a9c.bin.i
+data/Library/ShaderCache/5/512f2fe572c0ac76f40d5fd0f6b28f2c.bin.i
+data/Library/metadata/03/03ad6a4c3c0e64440b1d6cee74fc2a4f.i
+data/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef.info.i
+data/Library/metadata/7a/7a632f967e8ad42f5bd275898151ab6a.i
+data/Library/metadata/46/46e032e6247865441876c868e03138e3.info.i
+data/Library/ShaderCache/d/dd4003899ac0cd528b1ddb313fdcb7b8.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader.i
+data/Library/ShaderCache/f/f43b558a4b94d440cff06d4b796c47d1.bin.i
+data/Library/ShaderCache/f/f8d2a70344c1d1796e7f5d00c9d05fb9.bin.i
+data/Library/metadata/97/97e9b95cf609d96409b6c40519432957.i
+data/Library/metadata/56/562f620336e024ac99992ff05725a89a.i
+data/Assets/Materials/BuildingWhite.mat.meta.i
+data/Library/ShaderCache/a/a6db628afac4bb30361c7dd61128115d.bin.i
+data/Library/metadata/54/54f6f6313f2aecc4d81035ec0031e313.i
+data/Library/ShaderCache/b/b67b1278c59215e0667584793622ea48.bin.i
+data/Library/metadata/78/7856cbff0a0ca45c787d5431eb805bb0.i
+data/Library/metadata/00/003377fc2620a44939dadde6fe3f8190.info.i
+data/Library/ShaderCache/2/2173e3cd653b4877c3a145560dd0d177.bin.i
+data/Library/ShaderCache/2/2f0a4e8d1fc85d5ce0a9ef96b5fbeff4.bin.i
+data/Library/metadata/a6/a678ab9f67b4ce84093be35214bdb92d.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.i
+data/Library/metadata/19/19e680dc87e824b549bdf934caf15be9.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader.meta.i
+data/Assets/Materials/BuildingGrey.mat.i
+data/Library/ShaderCache/7/74e9c30ed5df4316823f11576cfcb9d4.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.i
+data/Library/ShaderCache/8/8b157f03fdc37aa1c971355799c43817.bin.i
+data/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.meta.i
+data/Assets/Scripts/Shell.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader.meta.i
+data/Library/ShaderCache/4/45cd9ad80d2a5ece5c8ba153c0550d1d.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.i
+data/Library/metadata/12/126dbcddb53386c4f969fdf0c555e822.i
+data/Library/metadata/7a/7a632f967e8ad42f5bd275898151ab6a.info.i
+data/Assets/Models/Building02.fbx.meta.i
+data/Assets/Editor/ImageEffects/SunShaftsEditor.cs.meta.i
+data/ProjectSettings/ProjectVersion.txt.i
+data/Library/metadata/e9/e97c14fbb5ea04c3a902cc533d7fc5d1.info.i
+data/Library/metadata/cd/cd5b323dcc592457790ff18b528f5e67.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.i
+data/Library/metadata/27/273404942eede4ea1883ca1fb2942507.info.i
+data/Library/metadata/ff/ffa9c02760c2b4e8eb9814ec06c4b05b.info.i
+data/Assets/Scripts/Managers/TankManager.cs.i
+data/Library/ShaderCache/1/161266fc440a0b9f951f84f8ded813b9.bin.i
+data/Library/metadata/1b/1b0f8caf6ec3ed644bf9751040d84dcb.info.i
+data/Library/ShaderCache/0/0901a7522ee66ad27315160e1c7d834b.bin.i
+data/Library/metadata/53/53b3960ee3d3d4a5caa8d5473d120187.info.i
+data/Library/metadata/e9/e97c14fbb5ea04c3a902cc533d7fc5d1.i
+data/Library/metadata/57/57cdacf9b217546aaa18edf39a6151c0.i
+data/Library/metadata/0f/0f7cab214f141f642b87a5bdbd14653e.info.i
+data/Library/ShaderCache/d/d30d2a3d454a0c71a51c829aa182c51a.bin.i
+data/Library/ShaderCache/4/4212dcf5eff3087914a9f11905484953.bin.i
+data/Library/metadata/ec/ecd9a2c463dcb476891e43d7c9f16ffa.info.i
+data/Assets/Models/Dunes01.fbx.i
+data/Assets/Materials/TankGrey.mat.meta.i
+data/Library/metadata/00/0000000000000000b000000000000000.i
+data/Library/metadata/00/00000000000000006100000000000000.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader.i
+data/Library/ShaderCache/e/eabe7cd587de7feaff4e1bc93201a46c.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png.meta.i
+data/Library/ShaderCache/5/59227a5c9ba00e942f876e0d434923a0.bin.i
+data/Library/metadata/61/614b6b69c0bbcd945bb2f83eb02a3436.info.i
+data/Library/ShaderCache/8/89b40447f38544f16d4b6d206033491e.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader.meta.i
+data/Library/metadata/8c/8c99ccdf18f6a404f84ffd08488298d8.i
+data/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44.i
+data/Library/metadata/70/708b781cad112c75d0008dfa8d76c639.i
+data/Assets/AudioClips/ShellExplosion.wav.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures.meta.i
+data/Library/metadata/18/18e521b6f8588c44f9e68c769421eb47.info.i
+data/Library/metadata/76/76b5ec6153a1d55438228df10fe66844.i
+data/Library/ShaderCache/5/52e5c13e821864f1ab3593f7aa741a79.bin.i
+data/Library/ShaderCache/2/2c164a19d37bb06c753eca9cb72a340b.bin.i
+data/Library/ShaderCache/7/72b4762551bc9f3d9c1f8014ecfb4100.bin.i
+data/Library/ShaderCache/f/f555cccb17d2557efefedf1a28244dab.bin.i
+data/Library/ShaderCache/1/1024b6fe13eb00772b45a129a5687056.bin.i
+data/Library/ShaderCache/b/be046faefb160979c4ba24023766b410.bin.i
+data/Library/metadata/c5/c547503fff0e8482ea5793727057041c.i
+data/Assets/Prefabs/Tank.prefab.meta.i
+data/Library/metadata/e8/e80c3c84ea861404d8a427db8b7abf04.i
+data/Assets/Materials/YellowLight.mat.meta.i
+data/Library/ShaderCache/d/d8b960db43bf8a345f1e0ae78f0b7b76.bin.i
+data/Library/metadata/34/34382083ad114a07d000fbfb8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs.meta.i
+data/Library/metadata/88/88aed18ae5498b84bb8411ee4db7802f.i
+data/Library/metadata/62/6221f2fbc7212d94cb9c069ee262d824.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader.meta.i
+data/Library/ShaderCache/8/8f43dc6a4ecde7e069ce83e19d40c251.bin.i
+data/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb.i
+data/Library/metadata/61/614b6b69c0bbcd945bb2f83eb02a3436.i
+data/Library/metadata/8d/8d8760d4504814540ba00eaa1d1f43ac.info.i
+data/Library/metadata/c1/c182fa94a5a0a4c02870641efcd38cd5.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader.i
+data/Library/ShaderCache/7/70c5589c540072a7e4a8de22c98ca00d.bin.i
+data/Library/metadata/f6/f698f69d64c51f8438d853e5c274e5fc.info.i
+data/Library/ShaderCache/5/5854c88843545af04553abd37fe99b61.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs.meta.i
+data/Library/ShaderCache/5/5c578f0e5511418b4bafc6cf35133930.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.i
+data/Library/metadata/66/66c17be95fbf398439ea09f8892a8b43.i
+data/Library/metadata/b6/b6f4318ec6c2bf643a0f9edfeeaba0ec.info.i
+data/Library/metadata/a4/a4cdca73d61814d33ac1587f6c163bca.i
+data/Library/ShaderCache/7/78b7ae1bb30f95850a4eb077d97b2601.bin.i
+data/Assets/Editor/ImageEffects.meta.i
+data/Library/ShaderCache/c/cb43b95fbc6f510a6ab6fa76fe9c52be.bin.i
+data/Library/metadata/ce/ce454584ce15d4a0aa3db593906d0339.i
+data/Library/metadata/00/00000000000000001000000000000000.info.i
+data/Library/metadata/00/00000000000000002000000000000000.i
+data/Library/ShaderCache/f/fb3dd7e78cf484e7252370b65d7a6054.bin.i
+data/Library/ShaderCache/2/277be4c525d944a1d10bc9f62f93a6dc.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader.i
+data/Library/ShaderCache/a/a0d1477378a74997f71d80d47673145a.bin.i
+data/Library/metadata/b6/b6f4318ec6c2bf643a0f9edfeeaba0ec.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png.meta.i
+data/Library/metadata/76/7699c5fbfa27745a1abe111ab7bf9785.i
+data/Library/metadata/00/00000000000000006000000000000000.info.i
+data/Library/metadata/b1/b14ff24d0c1ad87409c85023c1d71c37.info.i
+data/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info.i
+data/Library/ShaderCache/1/1ba358ba0586590f33d5b90ef23bd3ad.bin.i
+data/Library/ShaderCache/4/4b4d73afb6be507340f8be73403fabec.bin.i
+data/Assets/Fonts/Bowlby_One.meta.i
+data/Library/metadata/ec/ec92b071d2d424aecb3e46f28eb63174.i
+data/Library/ShaderCache/7/7c9214a86f770a71a240a4279ca1d175.bin.i
+data/Library/metadata/ec/ec92b071d2d424aecb3e46f28eb63174.info.i
+data/Library/ShaderCache/e/ef21e42f0f46222911609ec086392adc.bin.i
+data/Library/metadata/f7/f7167ad2844254441b40b8a300b4f1fe.info.i
+data/Library/metadata/d3/d391697c7deb3a0459e0cdc4774e1631.i
+data/Library/metadata/8c/8c99ccdf18f6a404f84ffd08488298d8.info.i
+data/Assets/Prefabs/LevelArt.prefab.i
+data/Assets/Animators/Pumpjack.controller.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs.i
+data/Assets/Models/BustedTank.fbx.i
+data/Assets/Editor/ImageEffects/CameraMotionBlurEditor.cs.i
+data/Library/metadata/80/80cbbe1c107bf5e43a96347d3dfc2658.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader.i
+data/Library/metadata/9a/9ad381ed8492840ab9f165df743e4826.info.i
+data/Library/ShaderCache/f/f2780fc3975052bd8679d6e68162756a.bin.i
+data/Library/metadata/89/89e78efe92dfe5a42837b392cdb0bf9e.info.i
+data/Library/metadata/a8/a88a26a276b4e47619ce2c5adad33fab.i
+data/Library/ShaderCache/9/9bd4509a0787ce97f9fa9142ee3f3e1c.bin.i
+data/Library/metadata/11/115d1f9d9bd29064ab981e57c8fc8cdf.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png.i
+data/Assets/Scripts/Camera.meta.i
+data/Assets/Models/Radar.fbx.i
+data/Library/ShaderCache/4/4aa96ae79c92e6b7bf630b525ed75fed.bin.i
+data/Library/metadata/bf/bf34d2a25450349699e8ae6456fa7ca9.i
+data/Library/metadata/56/562f620336e024ac99992ff05725a89a.info.i
+data/Assets/Editor/ImageEffects/DepthOfFieldEditor.cs.i
+data/Library/ShaderCache/d/d04ba86bd30dfe12428736d52a823c49.bin.i
+data/Assets/Editor/MoveSceneViewCamera.cs.i
+data/Library/ShaderCache/b/bea929a0a65a433e9d0da8426d3c48ab.bin.i
+data/Library/ShaderCache/0/04bda68ed4f7512bd0de39cd75b1bfe7.bin.i
+data/Library/ShaderCache/d/daecbe191e7671c2a9f86c48fd445046.bin.i
+data/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e.info.i
+data/Library/ShaderCache/8/84b524b5222d37bdb4129b7402512076.bin.i
+data/Library/metadata/6f/6f19108706fdce9469603d07980eb8ad.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs.i
+data/Library/metadata/1c/1cd1bdb2203012a40ab12a0d2fd7aa88.i
+data/Assets/Models/Column01.FBX.meta.i
+data/Library/metadata/1b/1be963428ec33174f88161c5980f3faa.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs.meta.i
+data/Library/metadata/70/70d8568987ac0499f952b54c7c13e265.i
+data/Library/metadata/18/18b91636de2ba3445913e4cf38528dc8.i
+data/Assets/Materials/Dust.mat.i
+data/Library/ShaderCache/f/f549add3c6dc7bdee3d0ba7f76c3ac74.bin.i
+data/Library/ScriptMapper.i
+data/Assets/Models/Helipad.fbx.i
+data/Library/metadata/6f/6f6ed432a84a6894383f9d063e5c1f1f.i
+data/Library/metadata/f7/f7167ad2844254441b40b8a300b4f1fe.i
+data/Library/metadata/75/75febd242c999f04d9654522a10c006b.info.i
+data/Assets/Models/Radar.fbx.meta.i
+data/Library/metadata/00/00000000000000008100000000000000.info.i
+data/Library/ShaderCache/9/961b802d7442e5742759ca2538fd6421.bin.i
+data/Library/ShaderCache/e/ed6cb034b1be4774ad89e0ff6c8b3f4c.bin.i
+data/Library/metadata/0a/0aeaa4cb29f5d4e9c8455f04c8575c8c.i
+data/Library/metadata/c0/c0d660c0333c4224098a02ecd84d6232.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs.i
+data/Assets/Scripts/Managers/TankManager.cs.meta.i
+data/Library/metadata/ac/acd613035ff3e455e8abf23fdc8c8c24.i
+data/Library/ShaderCache/9/948895457a0272e6c2f7257036b79347.bin.i
+data/Library/metadata/8f/8f90bdc8aeb4bad4db0cb091100a44f4.info.i
+data/Library/ShaderCache/0/02b9a0f22e88b9e97186e85a2f4028da.bin.i
+data/Library/ShaderCache/0/0b93771572e991f749151a068015e47e.bin.i
+data/Library/BuildSettings.asset.i
+data/Library/ShaderCache/9/904619af244afb5ca48a20c5fb746cce.bin.i
+data/Library/metadata/08/08126bf2baa528c4cb9c60340a24e5d6.info.i
+data/Library/metadata/63/63db5dd3902ac1c48b09ef34d5fac746.info.i
+data/Library/metadata/11/115d1f9d9bd29064ab981e57c8fc8cdf.i
+data/Library/metadata/a0/a07a781cad112c75d0008dfa8d76c639.info.i
+data/Library/metadata/e7/e7df269b1d6121e4787b2f27aab18dbe.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.i
+data/Library/ShaderCache/9/96c281da2d81e931647499e5b50748ea.bin.i
+data/Library/ShaderCache/a/a5ad7545798d48ff65cf4c743614a5e6.bin.i
+data/Library/metadata/7f/7fa610bf2b9bccd48a9b3a6d79f90a37.i
+data/Library/metadata/91/9191284b058eef549b7108b5f04e1117.i
+data/Library/ShaderCache/b/b1f83994277ceb9d84f0f19a7b739e27.bin.i
+data/Library/ShaderCache/d/d8d1ee96fd257623b18d6dff125b8a5e.bin.i
+data/Library/ShaderCache/3/384db6888948f7d134ac4d9955afca87.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs.meta.i
+data/Library/metadata/24/243a781cad112c75d0008dfa8d76c639.i
+data/Library/metadata/0e/0e447868506ba49f0a73235b8a8b647a.i
+data/Library/ShaderCache/1/124b242ba10135855d0cc501c19ef837.bin.i
+data/Library/ShaderCache/9/9fb18c4707ed265348d50f28573e4e76.bin.i
+data/Library/metadata/ee/ee49a9a8678ecf8468eb488e1ac8d42b.info.i
+data/Library/metadata/64/641b781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader.i
+data/Library/metadata/87/87d2e70ca18454e4f855f8d99afb32e3.info.i
+data/Library/metadata/00/00000000000000005100000000000000.info.i
+data/Assets/Editor/ImageEffects/ColorCorrectionLookupEditor.cs.i
+data/Library/ShaderCache/c/cce5aebb62b1230c32fd3aa17028a644.bin.i
+data/Library/ShaderCache/b/b5346d0c6b2e868fe6c6eaacc63b5744.bin.i
+data/Assets/Materials/TankLights.mat.i
+data/Library/metadata/62/6205c27cc031f4e66b8ea90d1bfaa158.i
+data/Assets/_Scenes/Main2/ReflectionProbe-0.exr.meta.i
+data/Assets/Scripts/Camera/CameraControl.cs.i
+data/Library/ShaderCache/d/d276c41c7c9af8c1e5178d8e0c92c523.bin.i
+data/Library/metadata/8c/8c81db0e527d24acc9bcec04e87781bd.i
+data/Library/metadata/f9/f9d5fa183cd6b45eeb1491f74863cd91.i
+data/Library/metadata/00/0000000000000000c000000000000000.i
+data/Library/metadata/b5/b59984d82af624bd3b0c777f038276f2.info.i
+data/Library/metadata/8b/8b30686bb4322ab42ad5eb50a0210b58.info.i
+data/Library/metadata/ab/ab943d3d5ac38bb448fabe3cdc9516d1.info.i
+data/Library/metadata/00/002e2a607f5b64c48be0b3b0d8b8bfdd.info.i
+data/Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs.meta.i
+data/Library/ShaderCache/1/1fd2d79839ba91bb9d3cdaef4aea6aaf.bin.i
+data/Library/ShaderCache/c/cf65d89338c8025f7bbb3a3b4f26d18b.bin.i
+data/Library/ShaderCache/5/506f2c186b9eed94e80ecf339875c0c3.bin.i
+data/Library/metadata/7e/7e41e83d6bd224b4d99fa3ffa5e3a3a4.info.i
+data/Library/ShaderCache/c/cc5eb192c7d523ae09dbee12b7ef0c21.bin.i
+data/Library/ShaderCache/f/fc0548d3c8a54fa219c4f6f3989345aa.bin.i
+data/Assets/Models/PumpJack.fbx.meta.i
+data/Library/metadata/96/961487dad48770a4d867fcbcca1e5950.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.i
+data/Assets/Prefabs/ShellExplosion.prefab.i
+data/Assets/Scripts/Tank/TankMovement.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs.meta.i
+data/Library/ShaderCache/1/131a19d25dca000184c4e4e552629036.bin.i
+data/Library/metadata/45/459fe69d2f6d74ddb92f04dbf45a866b.info.i
+data/Library/ShaderCache/3/3b81e86847e45a389dc3d35c7e98083b.bin.i
+data/Library/metadata/7d/7d0265bd0a85e4ff08599e10b288065d.info.i
+data/Assets/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs.i
+data/Library/metadata/03/03b431caad1c74a90b83f7877c7c31f9.i
+data/Library/ShaderCache/c/c9d7397b03515f1d6dccb23b3fc47338.bin.i
+data/Library/ShaderCache/7/724dcac4142b847f3671e58edecd5401.bin.i
+data/Library/ShaderCache/b/b1ce12b0a4ab08685367d0e9d6bcfa59.bin.i
+data/Library/metadata/63/63db5dd3902ac1c48b09ef34d5fac746.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.meta.i
+data/Assets/Materials/BuildingGrey.mat.meta.i
+data/Library/ShaderCache/9/90534bd5ee129919ac51022a970ca596.bin.i
+data/Library/ShaderCache/f/f9ed43e216b41e8dfe0e75e9d6f696d3.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs.meta.i
+data/Library/ShaderCache/e/e4a438193ca30ca7f87bf78d57c174e3.bin.i
+data/Library/assetDatabase3.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png.i
+data/Library/ShaderCache/5/597043c5896570bcb63773880ddd7e4c.bin.i
+data/Library/ShaderCache/6/61dd943aec3fbf6adee209cedac8bb18.bin.i
+data/Library/metadata/00/00000000000000003000000000000000.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader.meta.i
+data/Assets/Models/OilStorage.fbx.meta.i
+data/Library/metadata/e5/e5dbc7bfeb0203344a6c08c8ed7678bc.i
+data/Library/metadata/b5/b59984d82af624bd3b0c777f038276f2.i
+data/Library/ShaderCache/a/a9d16b7fd216b7b15f8ebd6eab7a95cd.bin.i
+data/Library/ShaderCache/5/50505248af8808bd5c85ddefd7f81e05.bin.i
+data/Library/metadata/31/31f5a8611c4ed1245b18456206e798dc.info.i
+data/Library/metadata/a1/a181ca8e3c62f3e4b8f183f6c586b032.info.i
+data/Library/metadata/d6/d64b4f3a592f28b44bf19223ac8b6cd2.i
+data/Library/metadata/29/29af3199e11b72e47b41ff380db540fd.i
+data/Library/metadata/00/003377fc2620a44939dadde6fe3f8190.i
+data/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader.meta.i
+data/Assets/AudioClips/EngineIdle.aif.meta.i
+data/Library/metadata/c7/c7dd97e9cd879304795b366cbf187bfe.i
+data/Library/ShaderCache/f/f106ff9b24f03192088ce56012072b45.bin.i
+data/Library/metadata/b8/b83bf9933497ccf459675b37a3115920.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader.i
+data/Library/metadata/00/00000000000000009000000000000000.info.i
+data/Assets/Sprites.meta.i
+data/Assets/_Scenes/Main2.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader.i
+data/Library/ShaderCache/b/bb773b4b8c1c758ce6afab5ba657c8c4.bin.i
+data/Library/metadata/57/57b33a14b6d5347c5a85c36f6cb3b280.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs.i
+data/Library/ShaderCache/1/18dfbba8823f84355a9d6717b7847acd.bin.i
+data/.hgignore.i
+data/Library/CurrentMaximizeLayout.dwlt.i
+data/Library/ShaderCache/4/4cff277c0aa46a636dc1850440c289e0.bin.i
+data/Library/metadata/4b/4b4b25f923792ce4ab819907a4629058.info.i
+data/Library/ShaderCache/6/6909b68f56194bab43ebcd65a03b12fc.bin.i
+data/Library/ShaderCache/2/2ab21540b434b5956b400249439b6f1f.bin.i
+data/Library/metadata/f6/f698f69d64c51f8438d853e5c274e5fc.i
+data/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.i
+data/Library/ShaderCache/e/e59b08427bc3ef178650b24662b7285d.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/Noise.png.meta.i
+data/Library/metadata/3d/3d7fe0a26ba72d949874021dc3d6995e.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.i
+data/Library/metadata/7f/7fceaeb339b971b429c4cc600acabd13.info.i
+data/Library/ShaderCache/d/d296ad380a21a712ec58c7de8f120e5e.bin.i
+data/ProjectSettings/InputManager.asset.i
+data/Library/metadata/d0/d0c31a39c426da94496d2abbf928d525.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs.meta.i
+data/Library/metadata/66/66c17be95fbf398439ea09f8892a8b43.info.i
+data/Library/ShaderCache/6/6a92aa7ae39ccb71ccb954305146e00b.bin.i
+data/ProjectSettings/ProjectSettings.asset.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader.i
+data/Library/metadata/29/29af3199e11b72e47b41ff380db540fd.info.i
+data/Library/metadata/00/00000000000000004000000000000000.i
+data/Library/metadata/00/00000000000000006000000000000000.i
+data/Library/ShaderCache/5/52708015f618f8e84da4ca4fba8c9a68.bin.i
+data/Library/metadata/d6/d6ef58fc6f637406bbe6814a19c377f8.i
+data/Library/metadata/fd/fd0d7091fe3f1d24e81321bc2e4209df.info.i
+data/Assets/Editor/ImageEffects/BloomEditor.cs.i
+data/Library/metadata/76/76b5ec6153a1d55438228df10fe66844.info.i
+data/Library/ShaderCache/1/1721c71c8b31452445919d8d2fca22a0.bin.i
+data/Library/metadata/68/68a00c837b82e4c6d92e7da765dc5f1d.info.i
+data/Library/ShaderCache/1/1bb95fb123bdc4820cd1d289cba3fe41.bin.i
+data/Library/ShaderCache/1/1d1474262e66f39208ae8f3c4d45378f.bin.i
+data/Assets/Editor/ImageEffects/SunShaftsEditor.cs.i
+data/Library/metadata/d3/d3b1c8c1036784176946f5cfbfb7fe4c.i
+data/Library/ShaderCache/f/f3c69366092f17a6a6326553865e334f.bin.i
+data/Library/metadata/f6/f688f89ed5eb847c5b19c934a0f1e772.i
+data/Library/ShaderCache/6/66ed68032f7fa8e2a9a5b50b55592c41.bin.i
+data/Assets/Scripts/Shell/ShellExplosion.cs.meta.i
+data/Library/metadata/02/02536f33053638549ab5c50ff3ecc0de.i
+data/Library/metadata/62/62bcade1028c24ca1a39760ed84b9487.i
+data/Library/metadata/bd/bdda781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader.i
+data/Library/metadata/03/0336cc9e4e68ca84392077b848decb81.i
+data/Library/ShaderCache/1/10efd4544d6138ca5cb1aca6321afd1e.bin.i
+data/Library/metadata/70/708b781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Models/Rocks01.fbx.meta.i
+data/Library/ShaderCache/6/645e077219956806658e65ab53058f29.bin.i
+data/Library/ShaderCache/0/003b08905e512c061bf0bea736f7fbc9.bin.i
+data/Assets/Scripts/Tank.meta.i
+data/Library/metadata/89/89a037199d11087f1100e2b844295342.i
+data/Assets/Sprites/Aim Arrow.png.meta.i
+data/Library/metadata/a4/a4b474cd484494a4aaa4bbf928219d09.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs.meta.i
+data/Library/ShaderCache/2/293979fccf692eb55ef3dc150c084aa0.bin.i
+data/Assets/Materials/Grey.mat.meta.i
+data/Assets/Materials/Red.mat.i
+data/Library/ShaderCache/a/a12079e0fc1a69ff857d046de2617d92.bin.i
+data/Library/ShaderCache/e/ed6e6b29e8956f8f3a895b60f3677ffb.bin.i
+data/Assets/Models/PumpJack.fbx.i
+data/Library/metadata/4d/4deca87cb459d1642ac8f734856ca84e.i
+data/Library/metadata/8b/8b30686bb4322ab42ad5eb50a0210b58.i
+data/Library/ShaderCache/9/925ab69a089c33ee60a9e362bff77bb8.bin.i
+data/Library/ShaderCache/a/a1eb673ce8b257b212561fa9d39f848b.bin.i
+data/Library/ShaderCache/1/1d07d0eac365936f918e9ef99310ed0d.bin.i
+data/ProjectSettings/NetworkManager.asset.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs.i
+data/Library/ShaderCache/6/65e79c0d15a7ccbbe41df08e96af2b75.bin.i
+data/Library/ShaderCache/1/10d51c5baa63c231031288eefd3206cb.bin.i
+data/Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs.i
+data/Library/metadata/00/0000000000000000a000000000000000.i
+data/Library/metadata/f4/f4901f25d4e1542589348bbb89563d8e.info.i
+data/Library/metadata/00/00000000000000006100000000000000.info.i
+data/Library/metadata/f0/f00016a766df24d4e9bf2aea20bf8b71.i
+data/Tanks.sln.i
+data/Library/metadata/c1/c17f124fcdc0f5446a72f793898bd74b.resource.i
+data/Library/metadata/43/438ddd58d82c84d9eb1fdc56111702e1.info.i
+data/Library/metadata/00/0000000000000000b000000000000000.info.i
+data/Library/metadata/8c/8c81db0e527d24acc9bcec04e87781bd.info.i
+data/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.i
+data/Library/ShaderCache/9/94ed95f5987327ed47af87ead31540d3.bin.i
+data/Assets/Models/Tank.fbx.d
+data/Assets/Models/Tank.fbx.i
+data/Assets/Materials/BuildingStone.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader.i
+data/Library/ShaderCache/1/11c14a502410176b5843b87df2f4d4b1.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects.meta.i
+data/ProjectSettings/AudioManager.asset.i
+data/Library/metadata/18/186c4c0d31e314f049595dcbaf4ca129.info.i
+data/Library/metadata/da/daf9781cad112c75d0008dfa8d76c639.info.i
+data/Library/ShaderCache/8/8b405d229505973a7c2a26db1de85676.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.i
+data/Library/metadata/bf/bf34d2a25450349699e8ae6456fa7ca9.info.i
+data/Library/metadata/06/06b38fa3f5188f6419ab17bc1669c18c.info.i
+data/Library/ShaderCache/a/a54c1cdc836ed6e9d396068af0cabe04.bin.i
+data/Library/ShaderCache/0/008358783ef761b911bb4696491c96c7.bin.i
+data/Library/ShaderCache/f/f5fa5d8e708d7a765b338cd3a1f9f04d.bin.i
+data/Library/ShaderCache/6/63d8a0383c5704dbe8be83d97fb1e522.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png.i
+data/Library/ShaderCache/1/147d06be9b1707622a082f73a5322f6e.bin.i
+data/Library/ShaderCache/b/bc68e33280e52913b63ac4b636335bfc.bin.i
+data/Library/ShaderCache/b/b372e5dca947e350e79d1f4f965507c3.bin.i
+data/Assets/Editor/ImageEffects/TonemappingEditor.cs.meta.i
+data/Library/ShaderCache/1/1b0b33e5e058f6510479562af1668e6c.bin.i
+data/Library/ShaderCache/5/5d349f8783e08f03fc08b5e40a4c1753.bin.i
+data/Library/metadata/8d/8d8760d4504814540ba00eaa1d1f43ac.i
+data/Library/ShaderCache/1/1fb2d6a41ecf2f79ffdad87a1af2ca6c.bin.i
+data/Assets/AudioClips/TankExplosion.wav.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs.i
+data/Assets/Prefabs/TankExplosion.prefab.meta.i
+data/Library/ShaderCache/7/7c7bcb39e8a20a56fb461f7f05980f4a.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.meta.i
+data/Assets/Editor/ImageEffects/NoiseAndGrainEditor.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs.i
+data/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info.i
+data/Library/ShaderCache/4/491153a14276181e19cf025e9813b4b4.bin.i
+data/Library/ShaderCache/e/e869eba4bb740a43613b68adbec103d3.bin.i
+data/Assets/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader.i
+data/Library/metadata/2e/2ebf33c8c66048e4392138d1501e6be3.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing.meta.i
+data/Library/metadata/da/daf9781cad112c75d0008dfa8d76c639.i
+data/Library/metadata/d7/d7ca9fb5aa30155449192b23d7fb3336.resource.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs.meta.i
+data/Assets/Scripts/Managers.meta.i
+data/Library/ShaderCache/f/fe4a841006e88c2b03bfd022a75fccf5.bin.i
+data/Library/metadata/33/3309686a9fbbe6e42a182d5e0257704c.info.i
+data/Library/metadata/fd/fd9c214f640fae348958e74eaea6f543.i
+data/Assets/Models/Cactus.fbx.i
+data/Library/metadata/62/62bcade1028c24ca1a39760ed84b9487.info.i
+data/Library/metadata/67/67f8781cad112c75d0008dfa8d76c639.info.i
+data/Assets/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs.meta.i
+data/Library/metadata/4a/4a77fdcebbe85f14ab98dfad5da07c20.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs.i
+data/Library/ShaderCache/a/af15f60d826b599234c2ef819d6b9f65.bin.i
+data/Library/metadata/01/017ca72b9e8a749058d13ebd527e98fa.i
+data/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.i
+data/Library/ShaderCache/d/dc5bd4cf15b636b83c0b37359700e38c.bin.i
+data/Library/metadata/d7/d7ca9fb5aa30155449192b23d7fb3336.resource.d
+data/Library/metadata/e5/e5dbc7bfeb0203344a6c08c8ed7678bc.info.i
+data/Library/ShaderCache/1/1ebb8c3c1d5e68d6493122ed461e544e.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.meta.i
+data/Library/metadata/51/51ae11a5cd82fda468a85179946d672a.i
+data/Assets/Materials/BuildingGlass.mat.i
+data/Library/ShaderCache/7/7e8363805f892af9be82778f06b7a454.bin.i
+data/Assets/Scripts/Managers/GameManager.cs.meta.i
+data/Library/ShaderCache/0/05f7e5b3913f196ba4bd09aa210e05c9.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.i
+data/Assets/AudioClips/ShotFiring.wav.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader.meta.i
+data/Library/metadata/f5/f58445347fe2e4b8396487ed2bfa02ad.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png.i
+data/Library/metadata/fc/fc00ec05a89da4ff695a4273715cd5ce.info.i
+data/Library/ShaderCache/e/e818b57e83bfd625d6d52b11acd62d3a.bin.i
+data/Assets/_Scenes/Main/LightingData.asset.d
+data/Assets/_Scenes/Main/LightingData.asset.i
+data/Assets/Models.meta.i
+data/Library/metadata/af/afd58f28713632e419efd8f302698ceb.info.i
+data/Library/ShaderCache/f/fa329b43fb039371615a9187b232375b.bin.i
+data/Library/ShaderCache/4/4e64418e9c189a657bc38fad88f5ce6f.bin.i
+data/Library/metadata/43/438ddd58d82c84d9eb1fdc56111702e1.i
+data/Library/ShaderCache/0/061c4b452028d04e1c98daed0a2417e1.bin.i
+data/Library/metadata/2e/2ebf33c8c66048e4392138d1501e6be3.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs.i
+data/Library/ShaderCache/4/4e0e0cc5a5a14a63ab4f1915cb550329.bin.i
+data/Library/metadata/00/0000000000000000a000000000000000.info.i
+data/Library/metadata/5c/5c27182a28a7eb942a362e6d198fe0e6.resource.i
+data/Library/metadata/0e/0eba80400f16aca4b9dd3354bd2ab01b.info.i
+data/Library/metadata/e5/e50e925fb93c78246bf995d9dc3a2330.info.i
+data/Library/ShaderCache/f/f7799f2ef74f8eb2d2313b9678e97062.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png.meta.i
+data/Library/metadata/f1/f1b13d7a80660504a858ea24cfa418c6.info.i
+data/Assets/Materials/TankColour.mat.meta.i
+data/Assets/_Scenes/Main.meta.i
+data/Assets/_Scenes/Main/ReflectionProbe-0.exr.meta.i
+data/Library/metadata/1c/1cd1bdb2203012a40ab12a0d2fd7aa88.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs.meta.i
+data/Library/metadata/c1/c182fa94a5a0a4c02870641efcd38cd5.info.i
+data/Library/ShaderCache/7/78258294a7781025fbcc8556ae37499d.bin.i
+data/Library/ShaderCache/c/c45e58b1ac12ade9276088188827832d.bin.i
+data/Assets/_Scenes/Main/LightingData.asset.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs.i
+data/Library/ShaderCache/1/1418e822da917bf8106bdd5267a37887.bin.i
+data/Assets/Animators.meta.i
+data/Library/metadata/ff/ff21ff0ea9b18924bb1fdfbb0e58f5cb.info.i
+data/Assets/Materials/Green.mat.meta.i
+data/Library/ShaderCache/4/4fa016a52283049dab542aa70f61d5e0.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs.i
+data/Assets/Materials/Blue.mat.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs.i
+data/Library/metadata/43/43fcc28c40e404d4eabfc88b1dbda7b5.i
+data/Library/ShaderCache/4/4ba386d22b85b5e3cf922e0e287849a4.bin.i
+data/Library/ShaderCache/1/10c5c4b6277c3f612bf5516dfcf07660.bin.i
+data/Assets/AudioClips/TankExplosion.wav.meta.i
+data/Library/metadata/96/961487dad48770a4d867fcbcca1e5950.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.i
+data/Library/metadata/e9/e9ba2083ad114a07d000fbfb8d76c639.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.meta.i
+data/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info.i
+data/Library/metadata/4b/4b4b25f923792ce4ab819907a4629058.i
+data/Library/ShaderCache/9/9eac5c3bfd053f3384e28c32d0bde587.bin.i
+data/Library/metadata/80/80cbbe1c107bf5e43a96347d3dfc2658.i
+data/Library/metadata/25/257bc83cbeb544540bd0e558aa9b1383.i
+data/Library/ShaderCache/0/0660618a12ee9bcec405008c2372ee85.bin.i
+data/Library/ShaderCache/3/3a18d2cfda3d3161986404dcfd6c19fc.bin.i
+data/Library/ShaderCache/8/8188b9adca7bd94bc7ca39665e3758c8.bin.i
+data/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info.i
+data/Library/ShaderCache/1/1a5cfe55e7832b422763ee44401a7803.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader.meta.i
+data/Library/metadata/97/97e9b95cf609d96409b6c40519432957.info.i
+data/Library/ShaderCache/4/4fe486a7fba5d36efe066c7fc4ce2ee2.bin.i
+data/Library/metadata/6e/6e4d8dfe03882c54380948659f725233.info.i
+data/Library/metadata/53/53b3960ee3d3d4a5caa8d5473d120187.i
+data/Library/metadata/e3/e307cb54b57a59342868ad47d1ed0c30.info.i
+data/Library/ShaderCache/8/84dc3bf79c5f08c32cd29da51c4ffe5f.bin.i
+data/Assets/Materials/TankColour.mat.i
+data/Library/metadata/76/7699c5fbfa27745a1abe111ab7bf9785.info.i
+data/Library/metadata/32/327f44d86230f28468dc6a953ee98fa5.i
+data/Library/metadata/c0/c0d660c0333c4224098a02ecd84d6232.info.i
+data/Assets/Editor/ImageEffects/ColorCorrectionLookupEditor.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.d
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader.meta.i
+data/Library/ShaderCache/b/be38187c219c149b0fe03165306a365d.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.i
+data/Library/metadata/54/54f6f6313f2aecc4d81035ec0031e313.info.i
+data/Library/ShaderCache/b/b68cfa4d6bc2da7835180fe0765d0c5a.bin.i
+data/Library/metadata/67/672a9941361ad494a99fba36759eca80.i
+data/Assets/_Scenes/Main.unity.meta.i
+data/Library/metadata/d7/d7962f90116a5c94d9a7a2b2e4fbc1b2.info.i
+data/Library/metadata/43/43fcc28c40e404d4eabfc88b1dbda7b5.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs.meta.i
+data/Library/ShaderCache/8/806e0699d32aef6fc4d6c64708bfba35.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader.meta.i
+data/Library/ShaderCache/e/eec3b26a6e1e8d9c2c3ca375fd59dd26.bin.i
+data/Library/metadata/d4/d440902fad11e807d00044888d76c639.info.i
+data/Library/ShaderCache/9/95e772ff812d361ebb8a21f98dd9be3b.bin.i
+data/Library/metadata/a1/a181ca8e3c62f3e4b8f183f6c586b032.i
+data/Library/ShaderCache/f/f7dccef5ff8b0723021434eb61ed113e.bin.i
+data/Library/ShaderCache/e/eeedcc93620e3b25d5f99902129ae358.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader.i
+data/Library/metadata/c4/c4c5f95d06932564c8672b4bafeb1b28.info.i
+data/Library/ShaderCache/3/3b736ef149085fc090d99d03fdf840a6.bin.i
+data/Library/ShaderCache/a/aef7653307c9a71bf4c2ba30bc421d2c.bin.i
+data/Library/metadata/b6/b6aa781cad112c75d0008dfa8d76c639.i
+data/Library/ShaderCache/0/082580391d42bc69784730700e6e3ece.bin.i
+data/Assets/Models/Terrain.fbx.i
+data/Library/ShaderCache/0/09c574d946fb4ff7f23d9fedd916151f.bin.i
+data/Library/ShaderCache/d/dbab31d9d9d4fbac47634b0837187cc7.bin.i
+data/Library/ShaderCache/0/059dff455d9c1a327df2083e377849df.bin.i
+data/Library/metadata/be/be6e39cf196f146d5be72fbefb18ed75.i
+data/Library/metadata/d7/d7ca9fb5aa30155449192b23d7fb3336.i
+data/Library/metadata/02/02536f33053638549ab5c50ff3ecc0de.info.i
+data/Assets/Editor.meta.i
+data/Library/ShaderCache/d/d25cec7e20d797dd3fad3027e70bfaca.bin.i
+data/Library/ShaderCache.db.i
+data/Library/metadata/9a/9ad381ed8492840ab9f165df743e4826.i
+data/Library/AnnotationManager.i
+data/Library/ShaderCache/1/1bd79cd6038188f9289207c5fff8df70.bin.i
+data/Library/metadata/00/00000000000000007000000000000000.i
+data/Library/ShaderCache/a/a4ba00af4e5e90e9a49068bb98d0a741.bin.i
+data/Library/ShaderCache/c/c6acccc573ae074d1445458894d8e566.bin.i
+data/Library/metadata/da/da310021e2a4142429d95c537846dc38.info.i
+data/Library/ShaderCache/9/9adafaa4cd7ab74c568f2701c65a396d.bin.i
+data/Library/metadata/43/43ca18288c424f645aaa1e9e07f04c50.i
+data/Assets/_Scenes/Main2/LightingData.asset.d
+data/Library/ShaderCache/0/06e7b2e3766e89956366b46cab2acf3e.bin.i
+data/Assets/Scripts/Tank/TankShooting.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.i
+data/Assets/_Scenes/Main2/LightingData.asset.i
+data/Library/metadata/62/6205c27cc031f4e66b8ea90d1bfaa158.info.i
+data/Library/metadata/73/730475ee64f9a894bbac0d9e6f22e813.i
+data/Assets/Models/Tree.fbx.i
+data/Library/ShaderCache/1/1de5e13724edeed54e166a18191a6d7f.bin.i
+data/Library/metadata/8c/8ce5d020a687c314891341b4126d1de2.i
+data/Library/metadata/19/19e680dc87e824b549bdf934caf15be9.i
+data/ProjectSettings/UnityAdsSettings.asset.i
+data/Library/metadata/a4/a4b474cd484494a4aaa4bbf928219d09.i
+data/Library/metadata/d3/d391697c7deb3a0459e0cdc4774e1631.info.i
+data/Library/metadata/d9/d9cccf980fcb7441d85b8b3b5c2d2c34.i
+data/Assets/_Scenes/Main2.unity.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader.i
+data/Library/metadata/fd/fd0d7091fe3f1d24e81321bc2e4209df.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs.meta.i
+data/Library/metadata/f9/f9d5fa183cd6b45eeb1491f74863cd91.info.i
+data/Library/ShaderCache/a/aac1bb7803bc7c0f7006f7e1de5455da.bin.i
+data/Library/ShaderCache/e/e66f878d4edb578bcdd30e0f38d0f03c.bin.i
+data/Library/metadata/6d/6d55b5e91b95c41739cdf4f804dd383d.i
+data/Library/ShaderCache/3/3981e0b5074dfc0db2037ee6c0c1f8f0.bin.i
+data/Library/metadata/6f/6f1418cffd12146f2a83be795f6fa5a7.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader.meta.i
+data/Library/ShaderCache/f/f02c80dca4d433c6d33b9c11e8333837.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs.meta.i
+data/Library/ShaderCache/a/a11463bf4a2e7d1e994cc4a5a4c16ad4.bin.i
+data/Library/metadata/12/12c120f2400576c4f97a98bcca5529bc.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField.meta.i
+data/Library/metadata/db/db9ceca9e86a2724aaa5c3df2991dba7.i
+data/Library/metadata/a2/a22b3a7095a744a428c134b5e26ad68e.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader.meta.i
+data/Library/ShaderCache/0/0a1500e7ebca192425d992d9b3f1143c.bin.i
+data/Library/metadata/00/00e05bd2046fb4e5d93f1848da4734ee.info.i
+data/Assets/Animators/Pumpjack.controller.i
+data/Assets/Models/Building01.fbx.meta.i
+data/Library/ShaderCache/f/f29fc96f5d3005421aa8f19ac02131c2.bin.i
+data/Library/metadata/42/427fdf36119bab44a9131abd19b90f57.info.i
+data/Library/metadata/b3/b3a1f2f69b4c3a84cba5446e31e87c20.info.i
+data/Library/ShaderCache/9/9e4d788cc5ba7a40eb206578ce3ed3af.bin.i
+data/Library/AssetServerCacheV3.i
+data/Library/ShaderCache/f/fef1fd51c3fb34de655e0f1b2ea100cb.bin.i
+data/Library/metadata/51/51ae11a5cd82fda468a85179946d672a.info.i
+data/Library/ShaderCache/1/17bd09fe3ce9735961793ed6763a1590.bin.i
+data/Library/MonoManager.asset.i
+data/Assets/Materials/TankGrey.mat.i
+data/Library/metadata/0e/0e447868506ba49f0a73235b8a8b647a.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png.i
+data/Library/metadata/00/0000000000000000a100000000000000.info.i
+data/Library/ShaderCache/c/c47cbfdc405f5b895ed46d8fff6bbd8c.bin.i
+data/Library/metadata/8c/8ce5d020a687c314891341b4126d1de2.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs.i
+data/Library/metadata/be/befbb4b9c320b4b18a08ef7afb93b6c9.i
+data/Library/metadata/75/75febd242c999f04d9654522a10c006b.i
+data/Library/metadata/c1/c16b1f8aa5fb9442bb034ef70da16224.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader.i
+data/Library/metadata/00/00000000000000007100000000000000.info.i
+data/Library/metadata/b5/b5f1618d14cd80f4da910f00b04af37f.info.i
+data/Library/ShaderCache/a/a7b47459bcd54689d9572395a37cfde5.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader.i
+data/Library/ShaderCache/f/f4b96215255c6143f21acee198bc89c9.bin.i
+data/Library/metadata/24/243a781cad112c75d0008dfa8d76c639.info.i
+data/Library/metadata/60/60e318a6043c1cb4a8ce1c8805bab930.i
+data/Library/metadata/42/424be3af6ad117140887d3e652a89d24.i
+data/Library/ShaderCache/a/a56d40a9c42bfc140af6bfe388f66e28.bin.i
+data/Library/ShaderCache/1/136715b75259f692c30cae8ab3157ca4.bin.i
+data/Library/ShaderCache/4/4c3d639b0f940d043946d4a215d66772.bin.i
+data/Library/metadata/57/574c4e070e5dd0a40a02b979f582a836.i
+data/Library/metadata/e2/e2baf3cae8edc4daf94c9adc2154be00.i
+data/Assets/Models/Tank.fbx.meta.i
+data/Library/metadata/42/424be3af6ad117140887d3e652a89d24.info.i
+data/Assets/Scripts/Tank/TankHealth.cs.meta.i
+data/Library/metadata/1b/1b0f8caf6ec3ed644bf9751040d84dcb.i
+data/Library/ShaderCache/8/85e745196e4cbb701dfa6749f01eca92.bin.i
+data/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb.i
+data/Library/metadata/94/943c59645eb905144a0990b57e13a6f9.i
+data/Library/ShaderCache/4/4497b57ef173b0ade94d08c7c6d51f63.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs.meta.i
+data/Assets/_Scenes/Main/ReflectionProbe-0.exr.i
+data/Library/metadata/db/db9ceca9e86a2724aaa5c3df2991dba7.info.i
+data/Assets/Materials/OilDrums.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs.i
+data/Library/metadata/49/4932ab25b84dd7649b80af68a9660ddc.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader.i
+data/Assets/Materials/Brown.mat.meta.i
+data/Library/metadata/f5/f58445347fe2e4b8396487ed2bfa02ad.i
+data/Library/metadata/50/50b03df8f04b5c441aaac5b7fccb4734.info.i
+data/Library/metadata/0e/0eba80400f16aca4b9dd3354bd2ab01b.i
+data/Library/metadata/00/00000000000000003000000000000000.info.i
+data/Assets/Prefabs/DustTrail.prefab.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs.meta.i
+data/Assets/Materials/YellowLight.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader.i
+data/Library/ShaderCache/2/24cb2208f24f8d3ea9a67454a6a1d6cc.bin.i
+data/Library/ShaderCache/0/02a46b949e21ea6d6033fac067cb974a.bin.i
+data/Library/ShaderCache/e/e6a3ac32441347db7b85df39a26944a5.bin.i
+data/Library/ShaderCache/f/f2bd3e6fdbec1a709b26d7902e03938b.bin.i
+data/Library/ShaderCache/e/e14d95f15a73178a0d5e4bf9bd5ec6f3.bin.i
+data/ProjectSettings/ClusterInputManager.asset.i
+data/Library/ShaderCache/b/b7b2a794e27ee945f5be02b759a6132d.bin.i
+data/Library/ShaderCache/2/23fda921eef74d42722373240556569d.bin.i
+data/Library/ShaderCache/c/cb65dd1c8d93ab4855cc8b16ab027e74.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs.meta.i
+data/Library/ShaderCache/0/09937c9ebcc98578afef6b4054ca4cb4.bin.i
+data/Library/metadata/7f/7fceaeb339b971b429c4cc600acabd13.i
+data/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.i
+data/Library/metadata/ff/ffa9c02760c2b4e8eb9814ec06c4b05b.i
+data/Library/ShaderCache/c/c4536ddec7cfa41c25a9a798628a3905.bin.i
+data/Assets/_Scenes/Main2/ReflectionProbe-0.exr.i
+data/Assets/Sprites/Health Wheel.png.i
+data/Library/metadata/00/00000000000000005000000000000000.i
+data/Assets/Standard Assets.meta.i
+data/Library/ShaderCache/e/ec45de424066113dbdd5c42403d5beb7.bin.i
+data/Library/metadata/18/186c4c0d31e314f049595dcbaf4ca129.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader.meta.i
+data/Assets/Models/BustedTank.fbx.meta.i
+data/ProjectSettings/GraphicsSettings.asset.i
+data/Assets/AudioClips/ShotCharging.wav.meta.i
+data/Library/ShaderCache/2/2d41c77e3b29c2ed1cde327cb6a1eb79.bin.i
+data/Assets/Editor/ImageEffects/DepthOfFieldDeprecatedEditor.cs.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/Neutral3D16.png.i
+data/Library/metadata/0d/0d1644bdf064147baa97f235fc5b4903.i
+data/Assets/Editor/ImageEffects/EdgeDetectionEditor.cs.meta.i
+data/Assets/Fonts/Bowlby_One/BowlbyOne-Regular.ttf.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch.meta.i
+data/Library/metadata/a4/a4a9489f73e4f0344ab3fc97bdf5170b.info.i
+data/Library/metadata/e9/e9a9781cad112c75d0008dfa8d76c639.info.i
+data/Library/ShaderCache/8/81ee81e23aec0aa46737796f61e4e13b.bin.i
+data/Library/metadata/8f/8f90bdc8aeb4bad4db0cb091100a44f4.i
+data/Library/metadata/60/60e318a6043c1cb4a8ce1c8805bab930.info.i
+data/Library/ShaderCache/7/72331ae9d8b531bdd202df7df4183f7a.bin.i
+data/Library/metadata/3a/3a77defcde1caaa40b6f7502547e0c4e.i
+data/Library/metadata/62/627943dc7a9a74286b70a4f694a0acd5.i
+data/Library/metadata/ec/ecd9a2c463dcb476891e43d7c9f16ffa.i
+data/Library/ShaderCache/7/714390d9454474b4e72c19b3b8534ce3.bin.i
+data/Library/metadata/cd/cd5b323dcc592457790ff18b528f5e67.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader.i
+data/Library/ScriptAssemblies/BuiltinAssemblies.stamp.i
+data/Library/metadata/ae/aef18f364fed1a64ba495d15dcee610d.i
+data/Library/metadata/06/06b38fa3f5188f6419ab17bc1669c18c.i
+data/Library/ShaderCache/a/a9537cb3d6bf74bdfc06a6efa08f3206.bin.i
+data/ProjectSettings/TagManager.asset.i
+data/Library/ShaderCache/2/2b737dfd264921fc664f72d4e845281b.bin.i
+data/Library/metadata/2b/2b4f29398d9484ccfa9fd220449f5eee.info.i
+data/Library/AssetVersioning.db.i
+data/Library/metadata/1f/1fd999d1b2cf94a45a5b0a47ce074bef.info.i
+data/Library/metadata/82/824a5f0e2f5594247b38bce9a5e2ea3c.i
+data/Library/metadata/a9/a9df009a214e24a5ebbf271595f8d5b6.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader.meta.i
+data/Assets/Materials/Gold.mat.i
+data/Library/ShaderCache/9/9ba5ff151edd07335cf45c86a8f5df54.bin.i
+data/Library/ShaderCache/1/19807cd629c99481627ec13cb029bc3e.bin.i
+data/Library/metadata/50/50b03df8f04b5c441aaac5b7fccb4734.i
+data/Library/metadata/fc/fc00ec05a89da4ff695a4273715cd5ce.i
+data/Library/EditorUserSettings.asset.i
+data/Library/metadata/98/987fb0677d01f43ce8a9dbf12271e668.info.i
+data/Library/ShaderCache/f/f061a00275c7d58a9314549d2a5298bd.bin.i
+data/Assets/Fonts/Bowlby_One/OFL.txt.meta.i
+data/Library/ShaderCache/0/0a740260ff1fbcf6fe88fcb5c036b64c.bin.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader.meta.i
+data/Library/EditorUserBuildSettings.asset.i
+data/Assets/Materials/TankLights.mat.meta.i
+data/Library/ShaderCache/9/95fb38f43fcb762817677d44232c4d67.bin.i
+data/Assets/Prefabs/TankExplosion.prefab.i
+data/ProjectSettings/DynamicsManager.asset.i
+data/Library/metadata/d6/d6ef58fc6f637406bbe6814a19c377f8.info.i
+data/Assembly-CSharp-Editor.csproj.i
+data/Library/metadata/c1/c17f124fcdc0f5446a72f793898bd74b.i
+data/Library/metadata/0d/0df7b64f0e702f14897580a356feae92.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader.meta.i
+data/Library/metadata/46/463052f3f7389124f9e7b34b0b931d0d.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader.meta.i
+data/Library/metadata/00/00000000000000008000000000000000.i
+data/Library/ShaderCache/8/87c65e6a0b6590f3324fd96341b73d3d.bin.i
+data/Assets/Fonts/Bowlby_One/OFL.txt.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader.meta.i
+data/Library/metadata/cd/cd3e1490c3d9a7a498538315414d5129.i
+data/Library/ShaderCache/9/9cab1bd2414132da1e552f33016be4b6.bin.i
+data/Library/metadata/00/00000000000000008000000000000000.info.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta.i
+data/Library/metadata/50/50912a5d3c9322a46afa5ca162962a5c.info.i
+data/Library/metadata/ea/ea59781cad112c75d0008dfa8d76c639.info.i
+data/Library/ShaderCache/8/81a271ceb516e65bb69bfc9c943b8476.bin.i
+data/Library/ShaderCache/d/d66580fddb086f2e2ea83e5941a1bd68.bin.i
+data/Library/ShaderCache/8/80f74db54dbe9e20f8c4c3f6c08f9dd4.bin.i
+data/Assets/AudioClips/BackgroundMusic.wav.i
+data/Library/ShaderCache/d/dc40ba213296cbde382c5b9dcc493ca2.bin.i
+data/Assets/AudioClips/BackgroundMusic.wav.d
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Textures/ContrastEnhanced3D16.png.i
+data/Library/ShaderCache/0/057ddd7831a4f49e80cc26f035310228.bin.i
+data/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info.i
+data/Library/ShaderCache/9/95a42ce5f1d30799017dd76f3459b2dc.bin.i
+data/Library/ShaderCache/b/b2e6f4e252b4c682c4d05fba6ec97adf.bin.i
+data/Library/ShaderCache/c/cfc24596fa4b6f92cbbd61758696e6fb.bin.i
+data/Library/metadata/ee/ee49a9a8678ecf8468eb488e1ac8d42b.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader.i
+data/Assets/Models/Cliff.fbx.d
+data/Assets/Models/Cliff.fbx.i
+data/Assets/Materials/Smoke.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader.meta.i
+data/Assets/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader.meta.i
+data/Library/ShaderCache/9/9d52f74ee67c68d3b16b6f30501180b2.bin.i
+data/Library/metadata/64/646b5bc27a658f447b1d929fd5ffbd70.info.i
+data/Library/metadata/95/95616c020c5604dda96cf76afbbc0272.info.i
+data/Library/ShaderCache/9/9676c113ad179dda947d818f392bea23.bin.i
+data/Library/metadata/00/00000000000000001000000000000000.i
+data/Library/ShaderCache/7/7eef7e6566f790602d1f6b1d5ab3ea14.bin.i
+data/Library/metadata/be/becb33cd9bbfa40e48d86d94a4901be2.info.i
+data/Library/ShaderCache/3/38988e6e881b7993c9b3ee70ed06d2ad.bin.i
+data/Library/ShaderCache/b/bef509a11288904ab92ba7b7c5ef1217.bin.i
+data/Library/metadata/43/43ca18288c424f645aaa1e9e07f04c50.info.i
+data/Library/metadata/b3/b3a1f2f69b4c3a84cba5446e31e87c20.i
+data/Library/metadata/29/2964d4e5af87e5245bdd71b73e9b92f1.info.i
+data/Assets/Materials/White.mat.i
+data/Assets/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader.meta.i
